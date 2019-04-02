@@ -6,7 +6,7 @@
 #
 default: &default
   adapter: postgresql
-  database: icme2018
+  database: icme2019
   username: username
   password: password
 
