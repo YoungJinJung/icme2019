@@ -1,0 +1,127 @@
+
+%h1 Organizing Committee
+
+%div{class: 'row'}
+- ContactHelper::get_contact.each do |k, v|
+  %div{class: 'panel panel-primary oc-container'}
+    %div{class: 'panel-heading'}
+      %h4= v[:title]
+    %div{class: 'panel-body'}
+      - v[:members].zip(v[:photos]).each do |m|
+        %div{class: 'col-xs-6 col-sm-4 col-lg-3 oc-cell'}
+          %div{class: 'row'}
+            %img{class: 'oc-photo',
+                 src: "#{asset_path('photos/' + (m[1] == nil ? 'user_placeholder' : m[1]) + '.jpg')}"}
+          %div{class: 'row'}
+            %div{class: 'oc-name'}
+              = m[0].split(/,/)[0].strip
+              %br
+              %i= m[0].split(/,/)[1..-1].join(', ').strip
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 General Chairs
+
+  /   %div C.-C. Jay Kuo, USC, USA
+  /   %div Truong Nguyen, UCSD, USA
+  /   %div Wenjun Zeng, MSRA, China
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Program Chairs
+
+  /   %div Pamela Cosman, UCSD, USA
+  /   %div Yap-Peng Tan, NTU, Singapore
+  /   %div Sanghoon Lee, Yonsei U., Korea
+  /   %div Min Chen, U. of Washington, Bothell, USA
+  /   %div Mugen Peng, Beijing U of Posts & Telecom, China
+  /   %div Junsong Yuan, NTU, Singapore
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Plenary Chairs
+
+  /   %div John Apostolopoulos, Cisco, USA
+  /   %div Haohong Wang, TCL, USA
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Workshop Chairs
+
+  /   %div Mohan S. Kankanhalli, NUS, Singapore
+  /   %div Kai Yang, Bell Labs, USA
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Tutorial Chairs
+
+  /   %div Jane Wang, UBC, Canada
+  /   %div Vicky Zhao, Tsinghua, China
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Panel Chairs
+
+  /   %div Jiebo Luo, U. of Rochester, USA
+  /   %div Qi Tian, UT San Antonio, USA
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Special Session Chairs
+
+  /   %div Yonggang Wen, NTU, Singapore
+  /   %div Chia-Wen Lin, NTHU, Taiwan
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Demo/Expo Chairs
+
+  /   %div Michel Sarkis, Qualcomm, USA
+  /   %div Heather Yu, Huawei, USA
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Grand Challenges Chair
+
+  /   %div Vasudev Bhaskaran, Qualcomm, USA
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Industrial Program Chairs
+
+  /   %div Khaled El-Maleh, Qualcomm, USA
+  /   %div Felix Fernandes, Apple, USA
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Student Program Chair
+
+  /   %div Prasad Calyam, U. of Missouri, USA
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Finance Chair
+
+  /   %div Yan Sun, U. of Rhode Island, USA
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Publication Chair
+
+  /   %div Alessandro Piva, U. of Florence, Italy
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Publicity Chairs
+
+  /   %div Panayiotis Georgiou, USC, USA
+  /   %div William Grosky, U. of Michigan, USA
+  /   %div Mark Liao, Acad. Sinica, Taiwan
+  /   %div Liang Zhou, Nanjing U. of Posts & Telecommunication, China
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Registration Chair
+
+  /   %div Yusuf Ozturk, SDSU, USA
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Local/event Chair
+
+  /   %div Sunil Kumar, SDSU, USA
+
+  / %div{class: 'col-xs-12 col-sm-6'}
+  /   %h3 Industrial Advisory Board
+
+  /   %div Kevin Jou
+  /   %div Ton Kalker
+  /   %div Chang Yeong Kim
+  /   %div Haizhou Li
+  /   %div Wei-Ying Ma
+  /   %div John Smith
+  /   %div Raj Talluri

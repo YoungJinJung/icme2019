@@ -1,0 +1,46 @@
+!!!
+%html
+  %head
+    %meta{:content => "text/html; charset=UTF-8", "http-equiv" => "Content-Type"}/
+    %meta{name: 'viewport', content: 'width=device-width, initial-scale=1.0'}/
+    %title ICME 2018 - IEEE International Conference on Multimedia and Expo
+    = csrf_meta_tags
+    = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload'
+    = stylesheet_link_tag    'main', media: 'all', 'data-turbolinks-track': 'reload'
+    = javascript_include_tag 'application', 'data-turbolinks-track': 'reload'
+    = stylesheet_link_tag    "https://fonts.googleapis.com/css?family=Lato"
+  %body
+    %nav{class: 'navbar navbar-default navbar-fixed-top'}
+      %div{class: 'container-fluid'}
+        %div{class: 'navbar-header'}
+          %button{type: 'button', class: 'navbar-toggle collapsed', 'data-toggle' => 'collapse', 'data-target' => '#sitenav'}
+            %span{class: 'icon-bar'}
+            %span{class: 'icon-bar'}
+            %span{class: 'icon-bar'}
+          %a{class: 'navbar-brand', href: '/'} ICME 2018
+        %div{class: 'collapse navbar-collapse pull-right', id: 'sitenav'}
+          %ul{class: 'nav navbar-nav'}
+            = render partial: 'general', locals: {title: 'General'}
+            = render partial: 'calls', locals: {title: 'Calls'}
+            = render partial: 'conference', locals: {title: 'Conference'}
+            = render partial: 'industry', locals: {title: 'Industry'}
+            = render partial: 'authors', locals: {title: 'Authors'}
+            = render partial: 'students', locals: {title: 'Students'}
+            = render partial: 'attendees', locals: {title: 'Attendees'}
+
+    %div{class: 'container-fluid', id: 'main-content'}
+      = yield
+    %div{class: 'container-fluid footer'}
+      ICME 2018
+      %br
+
+      - SponsorHelper.get_sponsors.each do |key, data|
+        %div{class: 'col-xs-12 sponsor-level'}
+          = data[:title]
+          %div{class: 'row'}
+          - data[:logos].each do |company|
+            %div{class: 'col-xs-12 col-sm-6 col-md-3 sponsor-container'}
+              =image_tag "#{company}.png", class: 'sponsor-logo'
+
+
+

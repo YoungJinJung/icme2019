@@ -1,0 +1,39 @@
+:ruby
+  if !target.is_a?(Array)
+    target = [target]
+  end
+
+- if not defined?(override)
+  - if defined?(alt_title)
+    %h3= alt_title
+  - else
+    %h3 Important Dates
+
+  
+%ul
+  - target.each_with_index do |t, i|
+    - data = DateHelper::get spec: t
+
+    - if data[:type] != :nosubmission
+      %li 
+        = defined?(override) ? override[i] : data[:title] 
+        - if data[:type] != :nopropose
+          proposal
+        submission deadline: 
+        - if data[:extended]
+          %span{class: 'extended-date'}= data[:proposal]
+          %span{class: 'extended-new-date'}
+            (Extended
+            =data[:extended]
+            )
+        - else
+          #{data[:proposal]}
+
+    - if data[:notification]
+      %li 
+        = data[:title]
+        - if data[:type] != :nopropose and data[:type] != :nosubmission
+          proposal
+        - if data[:defix] != :noacceptance
+          acceptance 
+        notification: #{data[:notification]}

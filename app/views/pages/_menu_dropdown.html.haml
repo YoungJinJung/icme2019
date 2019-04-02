@@ -1,0 +1,19 @@
+%li{class: "dropdown #{add_class}"}
+  %a{class: 'dropdown-toggle', 'data-toggle': 'dropdown', href: '#', role: 'button'}
+    = title
+    %span{class: 'caret'}
+  %ul{class: 'dropdown-menu dropdown-menu-right'}
+    - items.each do |link, item|
+      - if item.is_a?(Hash)
+        - if item[:link]
+          %li
+            %a{href: "#{item[:link]}", target: "#{item[:target] || '_blank'}"}
+              = item[:name]
+              %span{class: 'glyphicon glyphicon-new-window'}
+      - else
+        - if params[:action] == link.to_s
+          %li{class: 'active'}
+            %a{href: '#', class: 'anchor-nolink'} #{item}
+        - else
+          %li
+            %a{href: "/#{link}"} #{item}

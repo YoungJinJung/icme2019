@@ -1,0 +1,277 @@
+body {
+  font-family: 'Lato', sans-serif;
+  overflow-x: hidden;
+}
+
+.anchor-nolink {
+  pointer-events: none;
+}
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 950px;
+}
+
+.footer {
+  border-top: 1px solid #888;
+  color: #888;
+  text-align: center;
+  font-style: italic;
+  margin-top: 2.5em;
+}
+
+.navbar {
+  border-radius: 0px
+}
+
+.parallax {
+  background-image: image-url("san_diego.jpg");
+  min-height: 288px;
+  //background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin-left: -500px;
+  margin-right: -500px;
+  margin-top: -24px;
+}
+
+.sponsor-container {
+  height: 80px;
+}
+
+.sponsor-logo {
+  max-height: 64px;
+  max-width: 150px;
+  margin: 8px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.sponsor-level {
+  font-style: normal;
+  font-size: 150%;
+  color: #333;
+  border-bottom: 1px solid #888;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: black;
+}
+
+.oc-photo {
+  height: 140px;
+  width: 140px;
+  border: 1px solid #aaa;
+}
+
+.oc-name {
+  //font-weight: bold;
+  //font-size: 110%;
+  border-left: 1px solid #aaa;
+  border-right: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+  padding: 4px;
+  width: 140px;
+  
+}
+
+.oc-email {
+  word-break: break-all
+}
+
+.oc-cell {
+  padding-bottom: 8px;
+  padding-top: 8px;
+}
+
+.oc-container {
+  margin-right: 4px;
+  margin-left: 4px;
+}
+
+.date-due {
+  color: red;
+  font-weight: bold
+}
+
+.date-today-highlight {
+  background-color: #d9534f;
+  color: white;
+  font-style: italic;
+}
+
+.date-notified {
+  color: white;
+  font-weight: bold;
+  background-color: green;
+}
+
+.keynote-bio {
+  margin-right: 8px;
+  margin-bottom: 8px;
+  float: left;
+  width: 192px;
+}
+
+.tutorial-heading, .specsess-heading {
+  //text-decoration: underline;
+  border-bottom: 1px solid #888
+}
+
+.jumbotron-wrapper {
+  //display: flex;
+  align-items: center;
+}
+
+.carousel-indicators.carousel-landing {
+  //top: 20px;
+  color: black;
+}
+
+.carousel-landing-caption {
+  text-align: center
+}
+
+.carousel-name {
+  font-style: italic;
+}
+
+img.carousel {
+  width: 160px;
+}
+
+.carousel-indicators.carousel-landing > li {
+  background: white;
+  color: black;
+  border: 1px solid #333;
+}
+
+.carousel-control.carousel-landing {
+  background: white;
+  color: #fff;
+}
+
+.splash-bright {
+  color: #f00;
+
+}
+
+.date-extended {
+  font-weight: bold;
+  background: red;
+  color: white;
+  //text-decoration: underline;
+}
+
+.clickable-workshop-link {
+  cursor: pointer;
+}
+
+.extended-date {
+  text-decoration: line-through;
+}
+
+.extended-new-date {
+  font-weight: bold;
+  color: red
+}
+
+#jumbotron-title {
+  text-align: center;
+}
+
+#main-content {
+  margin-top: 5em;
+}
+
+.hilinks {
+  font-size: 150%;
+  margin-top: 16px
+}
+
+.hilinks.title {
+  text-align: center;
+  background-color: #FD8000;
+  border-color: #FD8000
+}
+
+.hilinks.title:hover, .hlinks.title:focus {
+  background-color: #FD8000;
+  border-color: #FD8000
+}
+
+.invitation-header {
+  font-size: 115%;
+}
+
+.invitation-content {
+  margin-top: 4em;
+  width: 42em;
+}
+
+@media print {
+  .invitation-header {
+    position: fixed;
+    top: 0;
+  }
+
+  .invitation-footer {
+    position: fixed;
+    bottom: 0;
+  }
+
+  .invitation-content {
+    margin-top: 10em;
+  }
+}
+
+.paper-title {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.attraction-block {
+  img.attraction {
+    width: 100%;
+  }
+
+  .title {
+    margin-top: -51px;
+    padding-left: 8px;
+    margin-bottom: 8px;
+    color: white;
+    font-size: 36px;
+    position: relative;
+    font-weight: 800;
+    font-style: italic;
+    background-color: rgba(38, 38, 38, 0.6);
+  }
+
+  .title.multi {
+    margin-top: -75px;
+    .small {
+      margin-top: -8px;
+      font-size: 20px;
+      padding-bottom: 4px;
+    }
+  }
+}
+
+.hotel-street-view {
+  width: 100%;
+}
+.hotel-img {
+  max-width: 320px;
+  max-height: 160px;
+}
+
+.best-papers {
+  .title {
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  .author, .affil {
+    font-style: italic;
+  }
+}
