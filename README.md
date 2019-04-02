@@ -1,9 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Must Read This Documentation.
 
-Things you may want to cover:
+Base Code 
+
+icme 2018 - https://github.com/gbudiman/icme2018 
+
 
 * Ruby version
 
