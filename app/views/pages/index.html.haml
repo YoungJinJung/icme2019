@@ -7,17 +7,10 @@
         %div Nov 18-21, 2020
         %div Auckland, New Zealand
       %hr
+      /apsipa asc 2020 logo
+      %div{class: 'col-xs-12'}
+        %img{src: "#{asset_path('logo2010.bmp')}"}
 
-      %div{class: 'col-xs-6'}
-        %a{href: '/icme2018_program_guide.pdf'}
-          %div{class: 'alert alert-warning', style: 'padding: 32px 16px 24px 16px'}
-            %div{class: 'glyphicon glyphicon-book', style: 'font-size: 64px'}
-            %div{style: 'font-size: 24px'} Program Guide
-      %div{class: 'col-xs-6'}    
-        %a{href: '/dining_options.pdf'}
-          %div{class: 'alert alert-warning', style: 'padding: 32px 16px 24px 16px'}
-            %div{class: 'glyphicon glyphicon glyphicon-cutlery', style: 'font-size: 64px'}
-            %div{style: 'font-size: 24px'} Dining Options
 
   %div{class: 'col-xs-12 col-sm-6'}
     %div{class: 'list-group hilinks'}
@@ -68,12 +61,10 @@
         %span{class: 'glyphicon glyphicon-bed'}
         Hotel Reservation
 
-
-  %div{class: 'col-xs-12'}
-
   %div{class: 'col-xs-12 col-sm-6'}
+    %hr
     %div{class: 'splash-bright'}
-      / %div{class: 'h3 text-center'} 
+      / %div{class: 'h3 text-center'}
       /   Upcoming Deadlines
       /   %a{href: '/important_dates', target: '_schedule'}
       /     %span{class: 'glyphicon glyphicon-new-window'}
@@ -102,8 +93,13 @@
       %tr
         %td Friday
         %td 8:00 AM - 3:30 PM
-      %table{class: 'table table-condensed'}
-
+    /program_guide Download
+    %div{id: 'jumbotron-title'}
+      %div{class: 'col-xs-12'}
+        %a{href: '/icme2018_program_guide.pdf'}
+          %div{class: 'alert alert-warning', style: 'padding: 32px 16px 24px 16px'}
+            %div{class: 'glyphicon glyphicon-book', style: 'font-size: 64px'}
+            %div{style: 'font-size: 24px'} Program Guide
   %div{class: 'col-xs-12 col-sm-6'}
     %div{id: 'landing-carousel', class: 'carousel slide', 'data-ride' => 'carousel'}
       %ol{class: 'carousel-indicators carousel-landing'}
