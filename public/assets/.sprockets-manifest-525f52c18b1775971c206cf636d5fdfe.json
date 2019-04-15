@@ -1276,7 +1276,7 @@
     },
     "application-2dda1d80fbadc9e1647d52ff7f0e8da2992b9d11a9d991344af39542f5ddec5e.js": {
       "logical_path": "application.js",
-      "mtime": "2019-04-15T13:23:34+09:00",
+      "mtime": "2019-04-15T20:03:35+09:00",
       "size": 448246,
       "digest": "2dda1d80fbadc9e1647d52ff7f0e8da2992b9d11a9d991344af39542f5ddec5e",
       "integrity": "sha256-LdodgPutyeFkfVL/fw6NopkrnRGp2ZE0SvOVQvXd7F4="
@@ -1315,10 +1315,24 @@
       "size": 354142,
       "digest": "10aa9ad9872dc4931898388f661f78448be47a0664c0e44da37ff97246cea5d8",
       "integrity": "sha256-EKqa2YctxJMYmDiPZh94RIvkegZkwORNo3/5ckbOpdg="
+    },
+    "main-799d25656e299a2c976e2485b1c2682b03a2126fb5ddb22cefe3b4c4ce06e3ff.css": {
+      "logical_path": "main.css",
+      "mtime": "2019-04-15T20:03:35+09:00",
+      "size": 8348,
+      "digest": "799d25656e299a2c976e2485b1c2682b03a2126fb5ddb22cefe3b4c4ce06e3ff",
+      "integrity": "sha256-eZ0lZW4pmiyXbiSFscJoKwOiEm+13bIs7+O0xM4G4/8="
+    },
+    "logo2010-bc5568a24e04654b84307afcfc096cbedc9aef045e85c5370b3c0cc3a2d9b056.bmp": {
+      "logical_path": "logo2010.bmp",
+      "mtime": "2019-04-15T16:33:19+09:00",
+      "size": 113350,
+      "digest": "bc5568a24e04654b84307afcfc096cbedc9aef045e85c5370b3c0cc3a2d9b056",
+      "integrity": "sha256-vFVook4EZUuEMHr8/Alsvtya7wRehcU3CzwMw6LZsFY="
     }
   },
   "assets": {
-    "main.css": "main-fba54135310d9478812f3d5dcccaca01b867b5d45f0d7c7394999ccf44c7bfc1.css",
+    "main.css": "main-799d25656e299a2c976e2485b1c2682b03a2126fb5ddb22cefe3b4c4ce06e3ff.css",
     "san_diego.jpg": "san_diego-be4960c90534e170ba440a41aa33f7723bef6b9a18582339b802efe2bafc42b0.jpg",
     "layout_helper.js": "layout_helper-532322cbea09c2c825b2d537a64499ef29970766133f14927586433be7ea8d82.js",
     "ecf.js": "ecf-b5e30338bfc152892407dde120b5f5a41bc6c3315dbaa368c48afea44fe5f8ce.js",
@@ -1500,6 +1514,6 @@
     "bootstrap/glyphicons-halflings-regular.ttf": "bootstrap/glyphicons-halflings-regular-e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456.ttf",
     "bootstrap/glyphicons-halflings-regular.svg": "bootstrap/glyphicons-halflings-regular-42f60659d265c1a3c30f9fa42abcbb56bd4a53af4d83d316d6dd7a36903c43e5.svg",
     "Auckland.jpg": "Auckland-d266992315f5f1d06b5e2a2901d22bd1bfa3a93133eb179c3794d9e9b1f7617e.jpg",
-    "logo2010.bmp": "logo2010-dd2c5ee14597692736114ca85432ccc37c69bebdcd134f8c404ff3a7a86990ee.bmp"
+    "logo2010.bmp": "logo2010-bc5568a24e04654b84307afcfc096cbedc9aef045e85c5370b3c0cc3a2d9b056.bmp"
   }
 }
