@@ -3,7 +3,7 @@
   %head
     %meta{:content => "text/html; charset=UTF-8", "http-equiv" => "Content-Type"}/
     %meta{name: 'viewport', content: 'width=device-width, initial-scale=1.0'}/
-    %title ICME 2018 - IEEE International Conference on Multimedia and Expo
+    %title APSIPA ASC 2020 - Asia-Pacific Signal and Information Processing Association Annual Summit and Conference 2020
     = csrf_meta_tags
     = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload'
     = stylesheet_link_tag    'main', media: 'all', 'data-turbolinks-track': 'reload'
@@ -17,7 +17,7 @@
             %span{class: 'icon-bar'}
             %span{class: 'icon-bar'}
             %span{class: 'icon-bar'}
-          %a{class: 'navbar-brand', href: '/'} ICME 2018
+          %a{class: 'navbar-brand', href: '/'} APSIPA ASC 2020
         %div{class: 'collapse navbar-collapse pull-right', id: 'sitenav'}
           %ul{class: 'nav navbar-nav'}
             = render partial: 'general', locals: {title: 'General'}
@@ -31,7 +31,7 @@
     %div{class: 'container-fluid', id: 'main-content'}
       = yield
     %div{class: 'container-fluid footer'}
-      ICME 2018
+      APSIPA ASC 2020
       %br
 
       - SponsorHelper.get_sponsors.each do |key, data|
