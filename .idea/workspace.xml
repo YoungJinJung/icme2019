@@ -1,133 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="fixup! - logo image &amp; BackGround image change - main page modify(description)">
+    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Abdurrahman Gobel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Ajay Luthra.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Alessandro Piva.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Ali Begen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Andrea Cavallaro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Anthony Vetro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Antonio Pinheiro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Atanas Gotchev.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Ben Riggan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Caili Guo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Cairong Zhao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Charles Niu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Chenwei Deng.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Chia-Wen Lin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Christian Timmerer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Christian Weth.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Euee S Jang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Frederic Dufaux.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Gary Li.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Gomila Cristina.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Han Hu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Hao Hong.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Heather Yu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Henrik Christensen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Imed Bouazizi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Ioan Tabus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jane Wang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jay Kuo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jenq-Neng Hwang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jens-Rainer Ohm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jesus Gutierrez.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jianwei Huang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jiaying Liu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jiebo Luo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jill Boyce.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jiwen Lu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/John Apostolopoulos.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jon Karafin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Joseph Robinson.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Junsong Yuan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Kai Yang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Kai-Lung Hua.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Kari Pulli.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Kenji Kanai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Khaled El-Maleh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Klaus Schoeffmann.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Krishna Somandepalli.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Lei Zhang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Liang Zhou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Liangping Ma.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Lifeng Sun.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Mahdi Rahimi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Manuel Tiglio.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Mark Kalman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Mark Liao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Marta Mrak.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Mathias Wien.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Michel Sarkis.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Min Chen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Ming Shao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Mohan Kankanhalli.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Mugen Peng.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Nathan Short.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Naveen Kumar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Nikolaos Boulgouris.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Nikolaos Thomas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Olli Suominen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Pamela Cosman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Panayiotis Georgiou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Patrick Le Callet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Paulo Jansen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Philip Chen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Phillip Chou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Pin-Yu Chen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Pradeep Atrey.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Prasad Calyam.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Qi Tian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Raymond Fu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Robert Bregovic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Robert DiFazio.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Rufael Mekuria.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Samson Cheung.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Sanghoon Lee.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Saquib Sarfraz.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Screenshot from 2018-01-11 02-11-57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Sebastiaan Leuven.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Serafin Diaz.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Shan Liu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Shri Narayanan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Shrikanth Narayanan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Shuowen Hu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Sijia Liu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Siyu Xia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Stefan Gobel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Sunil Kumar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Suren Vagharshakyan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Tanaya Guha.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Tao Mei.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Thomas Huang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Tian Gan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Touradj Ebrahimi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Truong Nguyen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Vasudev Bhaskaran.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Vicky Zhao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Weishi Zheng.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Wen-Huang Cheng.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Wenjun Zeng.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/William Grosky.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Xiaoyan Sun.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Xiuzhuang Zhou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yan Sun.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yan Ye.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yanjia Sun.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yap-Peng Tan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yonggang Wen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yuechuan Li.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yueshi Shen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yusuf Ozturk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Zahir Alpaslan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Zhenzhong Chen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Zhihua Wei.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Zhihui Lai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Zhu Li.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/user_placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/01-Furui.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/02-Liu.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/03-Li.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/04-Siu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/05-Kiya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/06-Kuh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/07-Abdulla.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/08-Kuo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/09-Kawahara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/10-Cho.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/11-Huang.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/12-Shinoda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/13-Kajikawa.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/14-He.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/15-Wang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/16-Aramvith.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/17-Echizen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/18-Ibi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/19-Yu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/20-Ikeda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/21-Wu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/22-Gan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/23-Ortega.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/24-Ambikairajah.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/25-Sethu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/26-Wu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/27-Ma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/28-Su.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/28-Su2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/29-Cheng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/30-Liu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/31-Kim.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/32-Zheng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/33-Xie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/34-Lam.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/35-Law.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/36-Lee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/37-Kang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/38-Ho.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/39-Saruwatari.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/40-Sun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/41-Togneri.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chairs/42-Bao.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/helpers/contact_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/contact_helper.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
     </list>
@@ -139,20 +57,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/helpers/date_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+            <state relative-caret-position="498">
+              <caret line="96" selection-start-line="96" selection-end-line="96" />
             </state>
           </provider>
         </entry>
@@ -179,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/helpers/contact_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+            <state relative-caret-position="210">
+              <caret line="119" column="23" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -190,11 +99,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/pages/organizing_committee.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="584">
+              <caret line="126" column="22" lean-forward="true" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -212,7 +121,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>tutorial</find>
       <find>deadline</find>
       <find>ContactHelper</find>
       <find>deadd</find>
@@ -242,6 +150,7 @@
       <find>contact</find>
       <find>Conference Chairs</find>
       <find>oc-name</find>
+      <find>row</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -279,9 +188,9 @@
         <option value="$PROJECT_DIR$/app/views/pages/_conference.html.haml" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/layout_helper.js" />
         <option value="$PROJECT_DIR$/app/views/pages/index.html.haml" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" />
         <option value="$PROJECT_DIR$/app/helpers/contact_helper.rb" />
         <option value="$PROJECT_DIR$/app/views/pages/organizing_committee.html.haml" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" />
       </list>
     </option>
   </component>
@@ -443,7 +352,7 @@
       <workItem from="1555400936436" duration="6627000" />
       <workItem from="1556271392887" duration="662000" />
       <workItem from="1556272532827" duration="1528000" />
-      <workItem from="1556280998392" duration="4526000" />
+      <workItem from="1556280998392" duration="6066000" />
     </task>
     <task id="LOCAL-00001" summary="init commit (2018 icme)">
       <created>1554195256180</created>
@@ -487,17 +396,23 @@
       <option name="project" value="LOCAL" />
       <updated>1556273255626</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="organizing_committee modified &#10;&#10;- change photo sizes 140 * 140 or Square Size">
+      <created>1556285774018</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556285774018</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38968000" />
+    <option name="totallyTimeSpent" value="40508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3851688" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3851688" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -509,7 +424,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4969563" visible="true" weight="0.32040817" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4969563" visible="true" weight="0.32040817" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49529606" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50470394" side_tool="true" weight="0.32881" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -568,7 +483,8 @@
     <MESSAGE value="Fixed for Run Configuration on Ruby Ver 2.3.3" />
     <MESSAGE value="- logo image &amp; BackGround image change&#10;- main page modify(description)" />
     <MESSAGE value="- logo image &amp; BackGround image change - main page modify(description)&#10;- useless pages cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="- logo image &amp; BackGround image change - main page modify(description)&#10;- useless pages cleanup" />
+    <MESSAGE value="organizing_committee modified &#10;&#10;- change photo sizes 140 * 140 or Square Size" />
+    <option name="LAST_COMMIT_MESSAGE" value="organizing_committee modified &#10;&#10;- change photo sizes 140 * 140 or Square Size" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -756,13 +672,6 @@
     <entry file="file://$PROJECT_DIR$/app/helpers/page_helper.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/date_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/conf_plenary.html.haml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -773,13 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/contact_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -800,17 +702,31 @@
     <entry file="file://$PROJECT_DIR$/app/views/pages/_chairs.html.haml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pages/organizing_committee.html.haml">
+    <entry file="file://$PROJECT_DIR$/app/helpers/date_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+        <state relative-caret-position="498">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/contact_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="119" column="23" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/organizing_committee.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="126" column="22" lean-forward="true" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
         </state>
       </provider>
     </entry>

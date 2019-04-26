@@ -117,7 +117,7 @@ module ContactHelper
     industrial_forum: {
         title: 'Industrial Forum Chairs',
         members: ['Guan-Ming Su,Dolby Labs'],
-        photos: ['28-Su2'],
+        photos: ['28-Su'],
         emails: ['guanmingsu@gmail.com']
     },
 
@@ -174,16 +174,16 @@ module ContactHelper
 
     publicity: {
       title: 'Publicity Chairs',
-      members: ['Yo-Sung Ho,Gwangju Institute of Science and Technology',
-                'Hiroshi Saruwatari,University of Tokyo',
+      members: ['Hiroshi Saruwatari,University of Tokyo',
                 'Ming-Ting Sun,University of Washington',
                 'Roberto Togneri,The University of Western Australia',
-                'Changchun Bao ,Beijing University fo Technology'],
-      photos: ['38-Ho',
-               '39-Saruwatari',
+                'Changchun Bao ,Beijing University fo Technology',
+                'Yo-Sung Ho,Gwangju Institute of Science and Technology'],
+      photos: ['39-Saruwatari',
                '40-Sun',
                '41-Togneri',
-               '42-Bao'],
+               '42-Bao',
+               '38-Ho'],
       emails: ['hoyo@gist.ac.kr',
                'hiroshi_saruwatari@ipc.i.u-tokyo.ac.jp',
                'sun@ee.washington.edu',
