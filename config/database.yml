@@ -6,7 +6,7 @@
 #
 default: &default
   adapter: postgresql
-  database: icme2019
+  database: ASPIPA2020
   username: username
   password: password
 

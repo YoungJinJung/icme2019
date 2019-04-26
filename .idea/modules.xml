@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/icme2019.iml" filepath="$PROJECT_DIR$/.idea/icme2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ASPIPA2020/.idea/ASPIPA_2020.iml" filepath="$PROJECT_DIR$/../ASPIPA2020/.idea/ASPIPA_2020.iml" />
     </modules>
   </component>
 </project>

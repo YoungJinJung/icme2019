@@ -1,5 +1,6 @@
 class PagesController < ApplicationController
   def index
+    #Main Page Represent Speaker Lists
   	@carousels = {
   		'Henrik Christensen' => ['IEEE/AAAS Fellow', 'Qualcomm Chancellor\'s Chair, UC San Diego, USA', 'Keynote Speaker'],
   		'Gomila Cristina' => ['CTO, Technicolor, France', 'Keynote Speaker'],

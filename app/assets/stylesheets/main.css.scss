@@ -60,6 +60,13 @@ body {
   color: #777;
 }
 
+.box {
+  padding: 20px;
+  border: 1px solid #D9B300;
+  border-radius: 5px;
+  margin: 10px;
+}
+
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
   font-weight: bold;
   color: #ffffff;
@@ -70,8 +77,8 @@ body {
   color: #ffffff;
 }
 .oc-photo {
-  height: 140px;
-  width: 140px;
+  height: 150px;
+  width: 150px;
   border: 1px solid #aaa;
 }
 
@@ -82,7 +89,7 @@ body {
   border-right: 1px solid #aaa;
   border-bottom: 1px solid #aaa;
   padding: 4px;
-  width: 140px;
+  width: 150px;
   text-align: center;
 }
 

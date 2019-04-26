@@ -1,22 +1,22 @@
-/* line 1, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 1, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 body {
   font-family: 'Lato', sans-serif;
   overflow-x: hidden;
 }
 
-/* line 6, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 6, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .anchor-nolink {
   pointer-events: none;
 }
 
-/* line 9, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 9, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
   max-width: 950px;
 }
 
-/* line 15, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 15, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .footer {
   border-top: 1px solid #888;
   color: #888;
@@ -25,13 +25,13 @@ body {
   margin-top: 2.5em;
 }
 
-/* line 23, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 23, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .navbar {
   border-radius: 0px;
   background-color: ivory;
 }
 
-/* line 28, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 28, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .parallax {
   background-image: url(/assets/Auckland-d266992315f5f1d06b5e2a2901d22bd1bfa3a93133eb179c3794d9e9b1f7617e.jpg);
   min-height: 370px;
@@ -41,12 +41,12 @@ body {
   margin-top: -24px;
 }
 
-/* line 38, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 38, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .sponsor-container {
   height: 80px;
 }
 
-/* line 42, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 42, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .sponsor-logo {
   max-height: 64px;
   max-width: 150px;
@@ -56,7 +56,7 @@ body {
   transform: translateY(-50%);
 }
 
-/* line 51, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 51, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .sponsor-level {
   font-style: normal;
   font-size: 150%;
@@ -64,19 +64,19 @@ body {
   border-bottom: 1px solid #888;
 }
 
-/* line 58, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 58, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .navbar-default .navbar-toggle .icon-bar {
   background-color: black;
 }
 
-/* line 62, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 62, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .oc-photo {
   height: 140px;
   width: 140px;
   border: 1px solid #aaa;
 }
 
-/* line 68, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 68, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .oc-name {
   border-left: 1px solid #aaa;
   border-right: 1px solid #aaa;
@@ -85,44 +85,44 @@ body {
   width: 140px;
 }
 
-/* line 79, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 79, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .oc-email {
   word-break: break-all;
 }
 
-/* line 83, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 83, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .oc-cell {
   padding-bottom: 8px;
   padding-top: 8px;
 }
 
-/* line 88, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 88, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .oc-container {
   margin-right: 4px;
   margin-left: 4px;
 }
 
-/* line 93, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 93, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .date-due {
   color: red;
   font-weight: bold;
 }
 
-/* line 98, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 98, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .date-today-highlight {
   background-color: #d9534f;
   color: white;
   font-style: italic;
 }
 
-/* line 104, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 104, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .date-notified {
   color: white;
   font-weight: bold;
   background-color: green;
 }
 
-/* line 110, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 110, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .keynote-bio {
   margin-right: 8px;
   margin-bottom: 8px;
@@ -130,146 +130,146 @@ body {
   width: 192px;
 }
 
-/* line 117, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 117, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .tutorial-heading, .specsess-heading {
   border-bottom: 1px solid #888;
 }
 
-/* line 122, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 122, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .jumbotron-wrapper {
   align-items: center;
 }
 
-/* line 127, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 127, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .carousel-indicators.carousel-landing {
   color: black;
 }
 
-/* line 132, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 132, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .carousel-landing-caption {
   text-align: center;
 }
 
-/* line 136, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 136, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .carousel-name {
   font-style: italic;
 }
 
-/* line 140, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 140, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 img.carousel {
   width: 160px;
 }
 
-/* line 144, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 144, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .carousel-indicators.carousel-landing > li {
   background: white;
   color: black;
   border: 1px solid #333;
 }
 
-/* line 150, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 150, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .carousel-control.carousel-landing {
   background: white;
   color: #fff;
 }
 
-/* line 155, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 155, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .splash-bright {
   color: #f00;
 }
 
-/* line 160, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 160, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .date-extended {
   font-weight: bold;
   background: red;
   color: white;
 }
 
-/* line 167, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 167, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .clickable-workshop-link {
   cursor: pointer;
 }
 
-/* line 171, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 171, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .extended-date {
   text-decoration: line-through;
 }
 
-/* line 175, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 175, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .extended-new-date {
   font-weight: bold;
   color: red;
 }
 
-/* line 180, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 180, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 #jumbotron-title {
   text-align: center;
 }
 
-/* line 184, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 184, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 #main-content {
   margin-top: 5em;
 }
 
-/* line 188, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 188, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .hilinks {
   font-size: 150%;
   margin-top: 16px;
 }
 
-/* line 193, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 193, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .hilinks.title {
   text-align: center;
   background-color: #FD8000;
   border-color: #FD8000;
 }
 
-/* line 199, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 199, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .hilinks.title:hover, .hlinks.title:focus {
   background-color: #FD8000;
   border-color: #FD8000;
 }
 
-/* line 204, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 204, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .invitation-header {
   font-size: 115%;
 }
 
-/* line 208, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 208, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .invitation-content {
   margin-top: 4em;
   width: 42em;
 }
 
 @media print {
-  /* line 214, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+  /* line 214, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
   .invitation-header {
     position: fixed;
     top: 0;
   }
 
-  /* line 219, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+  /* line 219, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
   .invitation-footer {
     position: fixed;
     bottom: 0;
   }
 
-  /* line 224, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+  /* line 224, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
   .invitation-content {
     margin-top: 10em;
   }
 }
-/* line 229, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 229, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .paper-title {
   font-weight: bold;
   text-decoration: underline;
 }
 
-/* line 235, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 235, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .attraction-block img.attraction {
   width: 100%;
 }
-/* line 239, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 239, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .attraction-block .title {
   margin-top: -51px;
   padding-left: 8px;
@@ -281,34 +281,34 @@ img.carousel {
   font-style: italic;
   background-color: rgba(38, 38, 38, 0.6);
 }
-/* line 251, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 251, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .attraction-block .title.multi {
   margin-top: -75px;
 }
-/* line 253, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 253, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .attraction-block .title.multi .small {
   margin-top: -8px;
   font-size: 20px;
   padding-bottom: 4px;
 }
 
-/* line 261, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 261, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .hotel-street-view {
   width: 100%;
 }
 
-/* line 264, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 264, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .hotel-img {
   max-width: 320px;
   max-height: 160px;
 }
 
-/* line 270, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 270, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .best-papers .title {
   font-weight: bold;
   font-size: 16px;
 }
-/* line 275, /home/jyj/RubymineProjects/icme2019/app/assets/stylesheets/main.css.scss */
+/* line 275, /home/jyj/RubymineProjects/ASPIPA2020/app/assets/stylesheets/main.css.scss */
 .best-papers .author, .best-papers .affil {
   font-style: italic;
 }
