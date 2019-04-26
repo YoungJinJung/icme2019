@@ -1,370 +1,196 @@
 module ContactHelper
   @contact = {
-    general: {
-      title: 'General Chairs',
-      members: ['C.-C. Jay Kuo, USC, USA',
-                'Truong Nguyen, UCSD, USA',
-                'Wenjun Zeng, MSRA, China'],
-      photos: ['Jay Kuo',
-               'Truong Nguyen',
-               'Wenjun Zeng']
+    honorary: {
+      title: 'Honorary Chairs',
+      members: ['Sadaoki Furui,Toyota Technological Institute at Chicago',
+                'K.-J. Ray Liu,University of Maryland',
+                'Haizhou Li,National University of Singapore',
+                'Wan-Chi Siu,Hong Kong Polytechnical University',
+                'Hitoshi Kiya,Tokyo Metropolitan University',
+                'Anthony Kuh,University of Hawaii'],
+      photos: ['01-Furui',
+               '02-Liu',
+               '03-Li',
+               '04-Siu',
+               '05-Kiya',
+               '06-Kuh'],
+      emails: ['furui@ttic.edu',
+               'kjrliu@umd.edu',
+               'haizhou.li@nus.edu.sg',
+               'wan.chi.siu@polyu.edu.hk',
+               'kiya@tmu.ac.jp',
+               'kuh@hawaii.edu']
     },
-    program: {
-      title: 'Program Chairs',
-      members: ['Pamela Cosman, UCSD, USA',
-                'Yap-Peng Tan, NTU, Singapore',
-                'Sanghoon Lee, Yonsei U., Korea',
-                'Min Chen, U. of Washington, Bothell, USA',
-                'Mugen Peng, Beijing U of Posts & Telecom, China',
-                'Junsong Yuan, State University of New York, Buffalo, USA'],
-      photos: ['Pamela Cosman',
-               'Yap-Peng Tan',
-               'Sanghoon Lee',
-               'Min Chen',
-               'Mugen Peng',
-               'Junsong Yuan']
+
+    conference: {
+      title: 'Conference Chairs',
+      members: ['Waleed Abdulla,University of Auckland',
+                'C.-C. Jay Kuo,USC, USA',
+                'Tatsuya Kawahara,Kyoto University'],
+      photos: ['07-Abdulla',
+               '08-Kuo',
+               '09-Kawahara'],
+      emails: ['w.abdulla@auckland.ac.nz',
+               'cckuo@sipi.usc.edu',
+               'kawahara@i.kyoto-u.jp'
+      ]
     },
+
+    tpc: {
+        title: 'TPC Chairs',
+        members: ['Nam Ik Cho,Seoul National University, Korea',
+                  'Jiwu Huang,Shenzhen University, China',
+                  'Koichi Shinoda,Tokyo Institute of Technology',
+                  'Yoshinobu Kajikawa,Kansai University, Japan',
+                  'Mingyi He, NPU, China',
+                  'Dong Wang,Tsinghua University, China',
+                  'Isao Echizen,National Institute of Informatics, Japan',
+                  'Shinsuke Ibi,Osaka University, Japan',
+                  'Zhiyi Yu,Sun Yat-sen University',
+                  'Kazushi Ikeda,Nara Institute of Science and Technology',
+                  'Mingyi He,NPU, China',
+                 ],
+        photos: ['10-Cho',
+                 '11-Huang',
+                 '12-Shinoda',
+                 '13-Kajikawa',
+                 '14-He',
+                 '15-Wang',
+                 '16-Aramvith',
+                 '17-Echizen',
+                 '18-Ibi',
+                 '19-Yu',
+                 '20-Ikeda',
+
+
+        ],
+        emails: ['nicho@snu.ac.kr',
+                 'jwhuang@szu.edu.cn',
+                 'shinoda@c.titech.ac.jp',
+                 'kaji@kansai-u.ac.jp',
+                 'myhe@nwpu.edu.cn',
+                 'wangdong99@mails.tsinghua.edu.cn',
+                 'supavadee.a@chula.ac.th',
+                 'iechizen@nii.ac.jp',
+                 'ibi@comm.eng.osaka-u.ac.jp',
+                 'yuzhiyi@mail.sysu.edu.cn',
+                 'kazushi@is.naist.jp']
+    },
+
     plenary: {
       title: 'Plenary Chairs',
-      members: ['John Apostolopoulos, Cisco, USA',
-                'Haohong Wang, TCL, USA'],
-      photos: ['John Apostolopoulos',
-               'Hao Hong']
+      members: ['Min Wu,University of Maryland',
+                'Woon Seng Gan,Nanyang Technological University',
+                'Antonio Ortega,University of Southern California'],
+      photos: ['21-Wu',
+               '22-Gan',
+               '23-Ortega'
+               ],
+      emails: ['minwu@umd.edu',
+               'minwu@umd.edu',
+               'antonio.ortega@ee.usc.edu'
+      ]
     },
-    workshop: {
-      title: 'Workshop Chairs',
-      members: ['Mohan Kankanhalli, NUS, Singapore',
-                'Kai Yang, Tongji University, China'],
-      photos: ['Mohan Kankanhalli',
-               'Kai Yang'],
-      emails: ['mohan@comp.nus.edu.sg',
-               'kaiyang@tongji.edu.cn']
-    },
+
     tutorial: {
       title: 'Tutorial Chairs',
-      members: ['Jane Wang, UBC, Canada',
-                'Vicky Zhao, Tsinghua, China'],
-      photos: ['Jane Wang',
-               'Vicky Zhao']
+      members: ['Eliathamby Ambikairajah,UNSW Sydney',
+                'Vidhya Sethu,UNSW Sydney'],
+      photos: ['24-Ambikairajah',
+               '25-Sethu'],
+      emails: ['ambi@ee.unsw.edu.au',
+               'v.sethu@unsw.edu.au'
+      ]
     },
-    panel: {
-      title: 'Panel Chairs',
-      members: ['Jiebo Luo, U. of Rochester, USA',
-                'Qi Tian, UT San Antonio, USA'],
-      photos: ['Jiebo Luo',
-               'Qi Tian']
+
+    overview_session: {
+      title: 'OverView Session Chairs',
+      members: ['Chung-Hsien Wu,National Cheng-Kung University',
+                'Kai-Kuang Ma,Nanyang Technological University'],
+      photos: ['26-Wu',
+               '27-Ma'],
+      emails: ['chwu@csie.ncku.edu.tw',
+               'EKKMA@ntu.edu.sg'
+      ]
     },
+
+    industrial_forum: {
+        title: 'Industrial Forum Chairs',
+        members: ['Guan-Ming Su,Dolby Labs'],
+        photos: ['28-Su2'],
+        emails: ['guanmingsu@gmail.com']
+    },
+
     special_session: {
       title: 'Special Session Chairs',
-      members: ['Yonggang Wen, NTU, Singapore',
-                'Chia-Wen Lin, NTHU, Taiwan'],
-      photos: ['Yonggang Wen',
-               'Chia-Wen Lin'],
-      emails: ['ygwen@ntu.edu.sg',
-               'cwlin@ee.nthu.edu.tw']
+      members: ['Wen-Huang Cheng,National Chiao-Tung University',
+                'Jia-Ying Liu,Peking University',
+                'Chang-Su Kim,Korea University'],
+      photos: ['29-Cheng',
+               '30-Liu',
+               '31-Kim'],
+      emails: ['whcheng@nctu.edu.tw',
+               'liujiaying@pku.edu.cn',
+               'changsukim@korea.ac.kr']
     },
-    demo_expo: {
-      title: 'Demo/Expo Chairs',
-      members: ['Liangping Ma, InterDigital, USA',
-                'Michel Sarkis, Qualcomm, USA',
-                'Heather Yu, Huawei, USA'],
-      photos: ['Liangping Ma',
-               'Michel Sarkis',
-               'Heather Yu'],
-      emails: ['liangping.ma@interdigital.com',
-               'msarkis@qti.qualcomm.com',
-               'heatheryu@huawei.com']
-    },
-    grand_challenge: {
-      title: 'Grand Challenges Chair',
-      members: ['Vasudev Bhaskaran, Qualcomm, USA',
-                'Lei Zhang, MSR, USA'],
-      photos: ['Vasudev Bhaskaran',
-               'Lei Zhang'],
-      emails: ['vasudevb@qti.qualcomm.com',
-               'leizhang@microsoft.com']
-    },
-    industrial_program: {
-      title: 'Industrial Program Chairs',
-      members: ['Khaled El-Maleh, Qualcomm, USA',
-                'Yan Ye, InterDigital, USA'],
-      photos: ['Khaled El-Maleh',
-               'Yan Ye']
-    },
-    student_program: {
-      title: 'Student Program Chair',
-      members: ['Prasad Calyam, U. of Missouri, USA'],
-      photos: ['Prasad Calyam']
+
+    sponsor: {
+      title: 'Sponsor Chairs',
+      members: ['Thomas Fang Zheng,Tsinghua University',
+                'Lei Xie,Northwestern Polytechnical University'],
+      photos: ['32-Zheng',
+               '33-Xie'],
+      emails: ['fzheng@tsinghua.edu.cn',
+               'lxie@nwpu.edu.cn']
     },
 
     finance: {
       title: 'Finance Chair',
-      members: ['Yan Sun, U. of Rhode Island, USA'],
-      photos: ['Yan Sun']
+      members: ['Kenneth Lam,Hong Kong Polytechnical University'],
+      photos: ['34-Lam'],
+      emails: ['kin.man.lam@polyu.edu.hk']
     },
+
+    registration: {
+        title: 'Registration Chair',
+        members: ['Bonnie N.F. Law,Hong Kong Polytechnical University'],
+        photos: ['35-Law'],
+        emails: ['ngai.fong.law@polyu.edu.hk']
+    },
+
     publication: {
       title: 'Publication Chair',
-      members: ['Alessandro Piva, U. of Florence, Italy'],
-      photos: ['Alessandro Piva']
+      members: ['Sanghoon Lee,Yonsei University'],
+      photos: ['36-Lee'],
+      emails: ['slee@yonsei.ac.kr']
     },
+
+    web: {
+        title: 'Web Chair',
+        members: ['Je-Won Kang,Ewha University'],
+        photos: ['37-Kang'],
+        emails: ['jewonk@ewha.ac.kr']
+    },
+
     publicity: {
       title: 'Publicity Chairs',
-      members: ['Panayiotis Georgiou, USC, USA',
-                'William Grosky, U. of Michigan, USA',
-                'Mark Liao, Acad. Sinica, Taiwan',
-                'Liang Zhou, Nanjing U. of Posts & Telecommunication, China'],
-      photos: ['Panayiotis Georgiou', 
-               'William Grosky', 
-               'Mark Liao',
-               'Liang Zhou']
+      members: ['Yo-Sung Ho,Gwangju Institute of Science and Technology',
+                'Hiroshi Saruwatari,University of Tokyo',
+                'Ming-Ting Sun,University of Washington',
+                'Roberto Togneri,The University of Western Australia',
+                'Changchun Bao ,Beijing University fo Technology'],
+      photos: ['38-Ho',
+               '39-Saruwatari',
+               '40-Sun',
+               '41-Togneri',
+               '42-Bao'],
+      emails: ['hoyo@gist.ac.kr',
+               'hiroshi_saruwatari@ipc.i.u-tokyo.ac.jp',
+               'sun@ee.washington.edu',
+               'roberto.togneri@uwa.edu.au',
+               'chchbao@bjut.edu.cn'
+      ]
     },
-    registration: {
-      title: 'Registration Chair',
-      members: ['Yusuf Ozturk, SDSU, USA'],
-      photos: ['Yusuf Ozturk']
-    },
-    local_event: {
-      title: 'Local/Event Chair',
-      members: ['Sunil Kumar, SDSU, USA'],
-      photos: ['Sunil Kumar']
-    },
-    specsess_bda: {
-      not_oc: true,
-      title: '',
-      members: ['Jenq-Neng Hwang, University of Washington',
-                'Caili Guo, Beijing Univeristy of Posts and Telecommunication'],
-      emails: ['hwang@uw.edu',
-               'guocaili@bupt.edu.cn']    ,
-      photos: ['Jenq-Neng Hwang', 'Caili Guo']
-    },
-    specsess_mec: {
-      not_oc: true,
-      members: ['Lifeng Sun, Tsinghua University',
-                'Jianwei Huang, Chinese University of Hong Kong'],
-      emails: ['sunlf@tsinghua.edu.cn',
-               'jwhuang@ie.cuhk.edu.hk'],
-      photos: ['Lifeng Sun', 'Jianwei Huang']
-    },
-    specsess_haa: {
-      not_oc: true,
-      members: ['Jiaying Liu, Peking University',
-                'Xiaoyan Sun, Microsoft Research Asia'],
-      emails: ['liujiaying@pku.edu.cn',
-               'xysun@microsoft.com'],
-      photos: ['Jiaying Liu', 'Xiaoyan Sun']
-    },
-    specsess_pcc: {
-      not_oc: true,
-      members: ['Zhu Li, Univ of Missouri, Kansas',
-                'Euee S. Jang, Hanyang University, Seoul, Korea',
-                'Rufael Mekuria, Unified Streaming, Netherland',
-                'Gary Li, Beijing University Shenzhen Grad School, China'],
-      emails: ['lizhu@ukmc.edu',
-               'esjang@hanyang.ac.kr',
-               'rufael@united-streaming.com',
-               'gli@pkusz.edu.cn'],
-      photos: ['Zhu Li', 'Euee S Jang', 'Rufael Mekuria', 'Gary Li']
-    },
-    specsess_lbo: {
-      not_oc: true,
-      members: ['Han Hu, Nanyang Technological University',
-                'Nikolaos Thomas, University of Essex, UK',
-                'Kenji Kanai, Waseda University, Japan'],
-      emails: ['hhu@ntu.edu.sg',
-               'nthomos@essex.ac.uk',
-               'k.kanai@aoni.waseda.jp'],
-      photos: ['Han Hu', 'Nikolaos Thomas', 'Kenji Kanai']
-    },
-    specsess_dml: {
-      not_oc: true,
-      members: ['Jiwen Lu, Tsinghua University',
-                'Xiuzhuang Zhou, Beijing University of Posts and Telecommunication',
-                'Nikolaos Boulgouris, Brunel University, London'],
-      emails: ['lujiwen@tsinghua.edu.cn',
-               'xiuzhuang.zhou@cnu.edu.cn',
-               'nikolaos.boulgouris@brunel.ac.uk'],
-      photos: ['Jiwen Lu', 'Xiuzhuang Zhou', 'Nikolaos Boulgouris']
-    },
-    workshop_htm: {
-      not_oc: true,
-      members: ['Ioan Tabus, Finland',
-                'Zahir Alpaslan, USA',
-                'Touradj Ebrahimi, Switzerland'],
-      photos: ['Ioan Tabus', 'Zahir Alpaslan', 'Touradj Ebrahimi']
-    },
-    workshop_mast: {
-      not_oc: true,
-      members: ['Naveen Kumar, Sony Interactive Entertainment', 'Tanaya Guha, Dept. of Electrical Engineering Indian Institute of Technology, Kanpur', 'Krishna Somandepalli, Signal Analysis and Interpretation Laboratory University of Southern California', 'Shri Narayanan, Signal Analysis and Interpretation Laboratory University of Southern California'],
-      photos: ['Naveen Kumar', 'Tanaya Guha', 'Krishna Somandepalli', 'Shri Narayanan']
-    },
-    workshop_msts: {
-      not_oc: true,
-      members: ['M. Shamim Hossain', 'Stefan Goebel', 'Abdur Rahman'],
-      photos: [nil, 'Stefan Gobel', 'Abdurrahman Gobel']
-    },
-    workshop_mmc: {
-      not_oc: true,
-      members: ['Wen-Huang Cheng, Academia Sinica, Taiwan', 
-                'Kai-Lung Hua, National Taiwan University of Science and Technology, Taiwan', 
-                'Klaus Schoeffmann, Klagenfurt University, Austria', 
-                'Tian Gan, Shandong University, China', 
-                'Christian von der Weth, National University of Singapore, Singapore',
-                'Marta Mrak, BBC R&D, UK'],
-      photos: ['Wen-Huang Cheng', 'Kai-Lung Hua', 'Klaus Schoeffmann', 'Tian Gan', 'Christian Weth', 'Marta Mrak']
-    },
-    workshop_mlaim: {
-      not_oc: true,
-      members: ['Yanjia Sun, PhD, Principal Data Scientist, ADP, LLC', 
-                'Sijia Liu, Postdoctoral Research Fellow, Department of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, USA', 
-                'Pin-Yu Chen, PhD, Research Staff Member, AI Foundations Group, IBM T. J. Watson Research Center'],
-      emails: ['yanjia.sun@adp.com', 'lsjxjtu@umich.edu', 'pin-yu.chen@ibm.com'],
-      photos: ['Yanjia Sun', 'Sijia Liu', 'Pin-Yu Chen']
-    },
-    workshop_pim: {
-      not_oc: true,
-      members: ['Pradeep Atrey, State University of New York, Albany, USA', 
-                'Sen-cheng \'Samson\' Cheung, Univeristy of Kentucky, USA', 
-                'Frederic Dufaux, CNRS and Telecom ParisTech, France', 
-                'Andrea Cavallaro, Queen Mary University of London, UK'],
-      photos: ['Pradeep Atrey', 'Samson Cheung', 'Frederic Dufaux', 'Andrea Cavallaro']
-    },
-    workshop_fim_hgc: {
-      not_oc: true,
-      members: ['Thomas S. Huang, University of Illinois at Urbana-Champaign, USA'],
-      photos: ['Thomas Huang']
-    },
-    workshop_fim_gc: {
-      not_oc: true,
-      members: ['Y. Raymond Fu, Northeastern University, Boston, USA'],
-      photos: ['Raymond Fu']
-    },
-    workshop_fim_pc: {
-      not_oc: true,
-      members: ['Joseph P. Robinson, Northeastern University, Boston, USA',
-                'Ming Shao, University of Massachusetts Dartmouth, USA',
-                'Siyu Xia, Southeast University, China'],
-      emails: ['robinson.jo@husky.neu.edu',
-               'mshao@umassd.edu',
-               'xia081@gmail.com'],
-      photos: ['Joseph Robinson', 'Ming Shao', 'Siyu Xia']
-    },
-    workshop_emsa: {
-      not_oc: true,
-      members: ['Philip Chen, University of Macau, Macau', 
-                'Zhenzhong Chen, Wuhan University, China', 
-                'Chenwei Deng, Beijing Institute of Technology, China'],
-      photos: ['Philip Chen', 'Zhenzhong Chen', 'Chenwei Deng']
-    },
-    workshop_mbl: {
-      not_oc: true,
-      members: ['Wei-Shi Zheng, Sun Yat-sen University, China',
-                'Cairong Zhao, Tongji University, China',
-                'Zhihui Lai, Shen Zhen University, China',
-                'Yang Yang, UESTC, China',
-                'Zhihua Wei, Tongji University, China'],
-      photos: ['Weishi Zheng', 'Cairong Zhao', 'Zhihui Lai', nil, 'Zhihua Wei']
-    },
-    gc_pcc: {
-      not_oc: true,
-      members: ['Touradj Ebrahimi, EPFL',
-                'Antonio Pinheiro, Instituto de Telecomunicacoes and UBI',
-                'Anthony Vetro, Mistubishi Electric Research Labs'],
-      photos: ['Touradj Ebrahimi', 'Antonio Pinheiro', 'Anthony Vetro']
-    },
-    gc_hfr: {
-      not_oc: true,
-      members: ['Shuowen (Sean) Hu, US Army Research Laboratory',
-                'Nathan Short, Booz Allen Hamilton',
-                'Benjamin Riggan, US Army Research Laboratory',
-                'M. Saquib Sarfraz, Karlsruhe Institute of Technology'],
-      photos: ['Shuowen Hu', 'Nathan Short', 'Ben Riggan', 'Saquib Sarfraz']
-    },
-    gc_abr: {
-      not_oc: true,
-      members: ['Yueshi Shen, Twitch.tv',
-                'Yuechuan Li, Twitch.tv',
-                'Mark Kalman, Twitter Inc.',
-                'Sebastiaan Van Leuven, Twitter Inc.'],
-      photos: ['Yueshi Shen', 'Yuechuan Li', 'Mark Kalman', 'Sebastiaan Leuven']
-    },
-    gc_dlfr: {
-      not_oc: true,
-      members: ['Suren Vagharshakyan, Tampere University of Technology, Tampere, Finland',
-                'Olli Suominen, Tampere University of Technology, Tampere, Finland',
-                'Robert Bregovic, Tampere University of Technology, Tampere, Finland',
-                'Atanas Gotchev, Tampere University of Technology, Tampere, Finland'],
-      photos: ['Suren Vagharshakyan', 'Olli Suominen', 'Robert Bregovic', 'Atanas Gotchev']
-    },
-    gc_dash: {
-      not_oc: true,
-      members: ['Ali C. Begen (on behalf of DASH-IF), Ozyegin University and Networked Media',
-                'Christian Timmerer (on behalf of DASH-IF), Alpen-Adria-Universität Klagenfurt and Bitmovin'],
-      photos: ['Ali Begen', 'Christian Timmerer']
-    },
-    gc_salient: {
-      not_oc: true,
-      members: ['Jesus Gutierrez, University Of Nantes, Nantes, France',
-                'Patrick Le Callet, University Of Nantes, Nantes, France'],
-      photos: ['Jesus Gutierrez', 'Patrick Le Callet']
-    },
-    panel_a_moderator: {
-      not_oc: true,
-      members: ['Prof. Junsong Yuan, State University of New York, Buffalo, USA'],
-      photos: ['Junsong Yuan']
-    },
-    panel_a_panelists: {
-      not_oc: true,
-      members: ['Mohan Kankanhalli, National University of Singapore',
-                'Wenjun Zeng, Microsoft Research Asia, China',
-                'Xilin Chen, Chinese Academy of Science, China',
-                'Tao Mei, JD Research, China',
-                'Zhou Ren, Snap, USA'],
-      photos: ['Mohan Kankanhalli', 'Wenjun Zeng', nil, 'Tao Mei', nil]
-    },
-    panel_b_moderator: {
-      not_oc: true,
-      members: ['Dr. Liang Lin, SenseTime Group Ltd., China, Sun Yat-sen University, China']
-    },
-    panel_b_panelists: {
-      not_oc: true,
-      members: ['Xiaodan Liang, Carnegie Mellon University, USA',
-                'Zhu Li, University of Missouri, USA',
-                'Fatih Porikli, Huawei, USA, Australia National University, Australia',
-                'Lei Zhang, Microsoft Research, USA',
-                'Wen-Huang Cheng, Academia Sincia, Taiwan'],
-      photos: [nil, 'Zhu Li', nil, 'Lei Zhang', 'Wen-Huang Cheng']
-    },
-    industry_a_panelists: {
-      not_oc: true,
-      members: ['Imed Bouazizi, Principal Research Engineer, Samsung Research America',
-                'Robert DiFazio, Vice President and Head of R&D, InterDigital',
-                'Ajay Luthra, Vice President, Advanced Research and Technology, ARRIS',
-                'Manuel Tiglio, CEO and Chair of FASTechMedia']
-    },
-    industry_b_panelists: {
-      not_oc: true,
-      members: ['IJill Boyce, Fellow and Chief Media Architect, Intel',
-                'Philip A. Chou, Head of Compression, 8i',
-                'Serafin Diaz, VP Engineering, Qualcomm',
-                'Jon Karafin, CEO and Founder, Light Field Lab',
-                'Jens-Rainer Ohm, Professor, RWTH Aachen University, and Co-Chair of the Joint Video Experts Team (JVET)']
-    },
-    student_career_dinner: {
-      not_oc: true,
-      members: ['Prasad Calyam', 'Heather Yu', 'Michel Sarkis', 'Liangping Ma'],
-      emails: ['calyamp@missouri.edu', 'heatheryu@huawei.com', 'msarkis@qti.qualcomm.com', 'liangping.ma@interdigital.com'],
-      photos: ['Prasad Calyam', 'Heather Yu', 'Michel Sarkis', 'Liangping Ma']
-    }
-    # industrial_advisory: {
-    #   title: 'Industrial Advisory Board',
-    #   members: ['Kevin Jou',
-    #             'Ton Kalker',
-    #             'Chang Yeong Kim',
-    #             'Haizhou Li',
-    #             'Wei-Ying Ma',
-    #             'John Smith',
-    #             'Raj Talluri']
-    # }
   }
 
   def self.get_contact spec: nil

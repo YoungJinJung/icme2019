@@ -1,8 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
+    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="fixup! - logo image &amp; BackGround image change - main page modify(description)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Abdurrahman Gobel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Ajay Luthra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Alessandro Piva.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Ali Begen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Andrea Cavallaro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Anthony Vetro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Antonio Pinheiro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Atanas Gotchev.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Ben Riggan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Caili Guo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Cairong Zhao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Charles Niu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Chenwei Deng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Chia-Wen Lin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Christian Timmerer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Christian Weth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Euee S Jang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Frederic Dufaux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Gary Li.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Gomila Cristina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Han Hu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Hao Hong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Heather Yu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Henrik Christensen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Imed Bouazizi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Ioan Tabus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jane Wang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jay Kuo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jenq-Neng Hwang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jens-Rainer Ohm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jesus Gutierrez.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jianwei Huang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jiaying Liu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jiebo Luo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jill Boyce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jiwen Lu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/John Apostolopoulos.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Jon Karafin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Joseph Robinson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Junsong Yuan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Kai Yang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Kai-Lung Hua.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Kari Pulli.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Kenji Kanai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Khaled El-Maleh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Klaus Schoeffmann.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Krishna Somandepalli.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Lei Zhang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Liang Zhou.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Liangping Ma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Lifeng Sun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Mahdi Rahimi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Manuel Tiglio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Mark Kalman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Mark Liao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Marta Mrak.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Mathias Wien.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Michel Sarkis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Min Chen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Ming Shao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Mohan Kankanhalli.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Mugen Peng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Nathan Short.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Naveen Kumar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Nikolaos Boulgouris.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Nikolaos Thomas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Olli Suominen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Pamela Cosman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Panayiotis Georgiou.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Patrick Le Callet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Paulo Jansen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Philip Chen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Phillip Chou.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Pin-Yu Chen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Pradeep Atrey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Prasad Calyam.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Qi Tian.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Raymond Fu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Robert Bregovic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Robert DiFazio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Rufael Mekuria.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Samson Cheung.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Sanghoon Lee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Saquib Sarfraz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Screenshot from 2018-01-11 02-11-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Sebastiaan Leuven.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Serafin Diaz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Shan Liu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Shri Narayanan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Shrikanth Narayanan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Shuowen Hu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Sijia Liu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Siyu Xia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Stefan Gobel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Sunil Kumar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Suren Vagharshakyan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Tanaya Guha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Tao Mei.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Thomas Huang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Tian Gan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Touradj Ebrahimi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Truong Nguyen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Vasudev Bhaskaran.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Vicky Zhao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Weishi Zheng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Wen-Huang Cheng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Wenjun Zeng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/William Grosky.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Xiaoyan Sun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Xiuzhuang Zhou.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yan Sun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yan Ye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yanjia Sun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yap-Peng Tan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yonggang Wen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yuechuan Li.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yueshi Shen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Yusuf Ozturk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Zahir Alpaslan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Zhenzhong Chen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Zhihua Wei.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Zhihui Lai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/Zhu Li.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/user_placeholder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/contact_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/contact_helper.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,43 +139,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            <state relative-caret-position="333">
+              <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/pages/local.html.haml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/pages/index.html.haml">
+        <entry file="file://$PROJECT_DIR$/app/helpers/date_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="44" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/pages/attractions.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/pages/_general.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+            <state relative-caret-position="645">
+              <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -75,14 +178,32 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/helpers/contact_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="569">
+              <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/pages/_chairs.html.haml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/pages/organizing_committee.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/layout_helper.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="3" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="3" />
+            <state relative-caret-position="270">
+              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -91,11 +212,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>table-con</find>
-      <find>table</find>
-      <find>na</find>
-      <find>navbar</find>
-      <find>chairs</find>
       <find>tutorial</find>
       <find>deadline</find>
       <find>ContactHelper</find>
@@ -121,7 +237,15 @@
       <find>parallax</find>
       <find>container-flu</find>
       <find>-190</find>
+      <find>newzea</find>
+      <find>container-fl</find>
+      <find>contact</find>
+      <find>Conference Chairs</find>
+      <find>oc-name</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -153,17 +277,19 @@
         <option value="$PROJECT_DIR$/public/assets/application-2dda1d80fbadc9e1647d52ff7f0e8da2992b9d11a9d991344af39542f5ddec5e.js" />
         <option value="$PROJECT_DIR$/public/assets/application-10aa9ad9872dc4931898388f661f78448be47a0664c0e44da37ff97246cea5d8.css" />
         <option value="$PROJECT_DIR$/app/views/pages/_conference.html.haml" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/layout_helper.js" />
         <option value="$PROJECT_DIR$/app/views/pages/index.html.haml" />
+        <option value="$PROJECT_DIR$/app/helpers/contact_helper.rb" />
+        <option value="$PROJECT_DIR$/app/views/pages/organizing_committee.html.haml" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="243" />
-    <option name="y" value="341" />
-    <option name="width" value="928" />
-    <option name="height" value="948" />
+    <option name="y" value="140" />
+    <option name="width" value="926" />
+    <option name="height" value="940" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -316,7 +442,8 @@
       <workItem from="1555385563351" duration="8157000" />
       <workItem from="1555400936436" duration="6627000" />
       <workItem from="1556271392887" duration="662000" />
-      <workItem from="1556272532827" duration="501000" />
+      <workItem from="1556272532827" duration="1528000" />
+      <workItem from="1556280998392" duration="4526000" />
     </task>
     <task id="LOCAL-00001" summary="init commit (2018 icme)">
       <created>1554195256180</created>
@@ -353,16 +480,24 @@
       <option name="project" value="LOCAL" />
       <updated>1556272807870</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="- logo image &amp; BackGround image change - main page modify(description)&#10;- useless pages cleanup">
+      <created>1556273255626</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556273255626</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33415000" />
+    <option name="totallyTimeSpent" value="38968000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38018817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3851688" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -374,7 +509,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4969563" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4969563" visible="true" weight="0.32040817" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49529606" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50470394" side_tool="true" weight="0.32881" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -402,9 +537,9 @@
               <option name="COLUMN_ORDER">
                 <list>
                   <option value="0" />
-                  <option value="1" />
                   <option value="2" />
                   <option value="3" />
+                  <option value="1" />
                 </list>
               </option>
             </State>
@@ -432,7 +567,8 @@
     <MESSAGE value="ReadMe Fix" />
     <MESSAGE value="Fixed for Run Configuration on Ruby Ver 2.3.3" />
     <MESSAGE value="- logo image &amp; BackGround image change&#10;- main page modify(description)" />
-    <option name="LAST_COMMIT_MESSAGE" value="- logo image &amp; BackGround image change&#10;- main page modify(description)" />
+    <MESSAGE value="- logo image &amp; BackGround image change - main page modify(description)&#10;- useless pages cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="- logo image &amp; BackGround image change - main page modify(description)&#10;- useless pages cleanup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -446,12 +582,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/pages/organizing_committee.html.haml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pages/visa.html.haml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/venue.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -475,11 +605,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/db/schedule.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
       <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/conf_glance.html.haml">
       <provider selected="true" editor-type-id="text-editor">
@@ -559,28 +689,8 @@
     <entry file="file://$PROJECT_DIR$/app/jobs/application_job.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/page_helper.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/pages_controller.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/date_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor" />
@@ -616,13 +726,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/local.html.haml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -647,10 +750,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pages/_conference.html.haml">
+    <entry file="file://$PROJECT_DIR$/app/controllers/pages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/page_helper.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/date_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="91" selection-start-column="91" selection-end-column="91" />
+        <state relative-caret-position="645">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -660,13 +769,48 @@
     <entry file="file://$PROJECT_DIR$/app/views/pages/conf_keynotes.html.haml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/contact_helper.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/layout_helper.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="3" />
+        <state relative-caret-position="270">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/contact_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/_conference.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="91" selection-start-column="91" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/_chairs.html.haml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/organizing_committee.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
         </state>
       </provider>
     </entry>
