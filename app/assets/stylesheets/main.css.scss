@@ -7,9 +7,8 @@ body {
   pointer-events: none;
 }
 .container-fluid {
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 950px;
+
+  max-width: 1200px;
 }
 
 .footer {
@@ -22,11 +21,11 @@ body {
 
 .navbar {
   border-radius: 0px;
-  background-color: ivory;
+  background-color: #00462A;
 }
 
 .parallax {
-  background-image: image-url("Auckland.jpg");
+  background-image: image-url("newzealand.jpg");
   min-height: 370px;
   //background-attachment: fixed;
   background-repeat: no-repeat;
@@ -58,7 +57,19 @@ body {
 .navbar-default .navbar-toggle .icon-bar {
   background-color: black;
 }
+.navbar-default .navbar-nav > li > a {
+  color: #777;
+}
 
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.navbar-default .navbar-nav > li > a {
+  font-weight: bold;
+  color: #ffffff;
+}
 .oc-photo {
   height: 140px;
   width: 140px;
@@ -192,13 +203,13 @@ img.carousel {
 
 .hilinks.title {
   text-align: center;
-  background-color: #FD8000;
-  border-color: #FD8000
+  background-color: #00462A;
+  border-color: #00462A
 }
 
 .hilinks.title:hover, .hlinks.title:focus {
-  background-color: #FD8000;
-  border-color: #FD8000
+  background-color: #00462A;
+  border-color: #00462A
 }
 
 .invitation-header {

@@ -1,12 +1,12 @@
 var layout_helper = (function() {
   var adjust_background = function() {
-    var window_size = $(window).width() - 950 + 32;
+    var window_size = $(window).width() - 1200 + 32;
     var half_negative = window_size / 2 * -1;
 
     if (half_negative >= -16) {
       half_negative = -16;
     } else if (half_negative <= -190) {
-      half_negative = -190;
+      half_negative = 0;
     }
 
     $('.parallax')

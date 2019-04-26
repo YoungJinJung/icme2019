@@ -12880,7 +12880,6 @@ return jQuery;
         .end()
         .find('[data-toggle="tab"]')
           .attr('aria-expanded', false)
-
       element
         .addClass('active')
         .find('[data-toggle="tab"]')
