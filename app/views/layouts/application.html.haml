@@ -24,8 +24,9 @@
           %ul{class: 'nav navbar-nav'}
             = render partial: 'general', locals: {title: 'General'}
             = render partial: 'calls', locals: {title: 'Calls'}
-            = render partial: 'conference', locals: {title: 'Conference'}
             = render partial: 'attendees', locals: {title: 'Attendees'}
+
+            -#= render partial: 'conference', locals: {title: 'Conference'}
           -#= render partial: 'industry', locals: {title: 'Industry'}
           -#= render partial: 'authors', locals: {title: 'Authors'}
           -#= render partial: 'students', locals: {title: 'Students'}
@@ -35,14 +36,14 @@
     %div{class: 'container-fluid footer'}
       APSIPA ASC 2020
       %br
-
-      - SponsorHelper.get_sponsors.each do |key, data|
-        %div{class: 'col-xs-12 sponsor-level'}
-          = data[:title]
-          %div{class: 'row'}
-          - data[:logos].each do |company|
-            %div{class: 'col-xs-12 col-sm-6 col-md-3 sponsor-container'}
-              =image_tag "#{company}.png", class: 'sponsor-logo'
+      -# /Sponsors logos insert in here!!!!
+      -#- SponsorHelper.get_sponsors.each do |key, data|
+      -#  %div{class: 'col-xs-12 sponsor-level'}
+      -#    = data[:title]
+      -#    %div{class: 'row'}
+      -#    - data[:logos].each do |company|
+      -#      %div{class: 'col-xs-12 col-sm-6 col-md-3 sponsor-container'}
+      -#        =image_tag "#{company}.png", class: 'sponsor-logo'
 
 
 

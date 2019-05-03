@@ -41,6 +41,7 @@ Rails.application.routes.draw do
   get      '/registration', to: 'pages#registration'
   get      '/visa', to: 'pages#visa'
   get      '/venue', to: 'pages#venue'
+  get      '/travel', to: 'pages#travel'
   get      '/local', to: 'pages#local'
   get      '/accommodations', to: 'pages#accommodations'
   get      '/attractions', to: 'pages#attractions'

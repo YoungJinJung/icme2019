@@ -39,7 +39,7 @@ li{
   background-repeat: no-repeat;
   margin-left: -500px;
   margin-right: -500px;
-  margin-top: -20px;
+  margin-top: -25px;
 }
 
 .sponsor-container {
@@ -118,7 +118,13 @@ li{
 
 .date-due {
   color: red;
-  font-weight: bold
+  font-weight: bold;
+  font-style: italic;
+}
+
+.date-deadline {
+  color: red;
+  font-weight: bold;
 }
 
 .date-today-highlight {

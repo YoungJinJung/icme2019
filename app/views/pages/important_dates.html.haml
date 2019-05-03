@@ -19,13 +19,14 @@
             - if d[:affix] == :due
               %span{class: 'date-due'} Due
             - elsif d[:affix] == :notification
-              %span{class: 'date-notification'} Notification
+              %span{class: 'date-notification'}
             - elsif d[:affix] == :registration
               %span Registration
 
             - if d[:notified]
               %span{class: 'date-notified'} &nbsp; *** NOTIFIED *** &nbsp;
-
+            - if d[:deadline]
+              %span{class: 'date-deadline'} &nbsp; *** DEADLINE *** &nbsp;
             - if d[:extended]
               %span{class: 'date-extended'} 
                 &nbsp; (Extended
