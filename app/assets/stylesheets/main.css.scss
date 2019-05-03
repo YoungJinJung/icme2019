@@ -7,7 +7,16 @@ body {
   pointer-events: none;
 }
 .container-fluid {
+  font-size : 15px;
   max-width: 1200px;
+}
+
+p{
+  font-size:20px;
+}
+
+li{
+  font-size:18px;
 }
 
 .footer {
@@ -124,6 +133,12 @@ body {
   background-color: green;
 }
 
+.panel-primary > .panel-heading {
+   background-color: #00462A;
+}
+.panel-primary {
+  border-color: #00462A;
+}
 .keynote-bio {
   margin-right: 8px;
   margin-bottom: 8px;

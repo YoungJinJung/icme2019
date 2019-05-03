@@ -26,13 +26,16 @@ module ContactHelper
       title: 'Conference Chairs',
       members: ['Waleed Abdulla,University of Auckland',
                 'C.-C. Jay Kuo,USC, USA',
-                'Tatsuya Kawahara,Kyoto University'],
+                'Tatsuya Kawahara,Kyoto University',
+                'Sing Nguang, The University of Auckland'],
       photos: ['07-Abdulla',
                '08-Kuo',
-               '09-Kawahara'],
+               '09-Kawahara',
+               '43-Sing'],
       emails: ['w.abdulla@auckland.ac.nz',
                'cckuo@sipi.usc.edu',
-               'kawahara@i.kyoto-u.jp'
+               'kawahara@i.kyoto-u.jp',
+               'sk.nguang@auckland.ac.nz'
       ]
     },
 
@@ -114,12 +117,12 @@ module ContactHelper
       ]
     },
 
-    industrial_forum: {
-        title: 'Industrial Forum Chairs',
-        members: ['Guan-Ming Su,Dolby Labs'],
-        photos: ['28-Su'],
-        emails: ['guanmingsu@gmail.com']
-    },
+    # industrial_forum: {
+    #     title: 'Industrial Forum Chairs',
+    #     members: ['Guan-Ming Su,Dolby Labs'],
+    #     photos: ['28-Su'],
+    #     emails: ['guanmingsu@gmail.com']
+    # },
 
     special_session: {
       title: 'Special Session Chairs',
