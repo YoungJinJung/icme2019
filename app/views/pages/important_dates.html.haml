@@ -23,8 +23,8 @@
             - elsif d[:affix] == :registration
               %span Registration
 
-            - if d[:notified]
-              %span{class: 'date-notified'} &nbsp; *** NOTIFIED *** &nbsp;
+            -#- if d[:notified]
+            -#  %span{class: 'date-notified'} &nbsp; NOTIFIED &nbsp;
             - if d[:deadline]
               %span{class: 'date-deadline'} &nbsp; *** DEADLINE *** &nbsp;
             - if d[:extended]

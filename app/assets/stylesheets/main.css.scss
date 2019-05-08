@@ -12,11 +12,11 @@ body {
 }
 
 p{
-  font-size:20px;
+  font-size:21px;
 }
 
 li{
-  font-size:18px;
+  font-size:20px;
 }
 
 .footer {
@@ -88,18 +88,15 @@ li{
 .oc-photo {
   height: 150px;
   width: 150px;
-  border: 1px solid #aaa;
 }
 
 .oc-name {
-  //font-weight: bold;
-  //font-size: 110%;
-  border-left: 1px solid #aaa;
-  border-right: 1px solid #aaa;
-  border-bottom: 1px solid #aaa;
   padding: 4px;
-  width: 150px;
   text-align: center;
+}
+
+td{
+  font-size: 18px;
 }
 
 .oc-email {
@@ -109,6 +106,7 @@ li{
 .oc-cell {
   padding-bottom: 8px;
   padding-top: 8px;
+  text-align: center;
 }
 
 .oc-container {
@@ -117,7 +115,7 @@ li{
 }
 
 .date-due {
-  color: red;
+  color: green;
   font-weight: bold;
   font-style: italic;
 }

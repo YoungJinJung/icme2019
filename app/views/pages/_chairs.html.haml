@@ -8,7 +8,9 @@
       %img{class: 'oc-photo',
            src: "#{asset_path('photos/' + (m[1] == nil ? 'user_placeholder' : m[1]) + '.jpg')}"}
     %div{class: 'row oc-name'}
-      = m[0]
+      = m[0].split(/,/)[0].strip
+      %br
+      = m[0].split(/,/)[1].strip
       %br
       - if m[2]
         %a{href: "mailto:#{m[2]}"}

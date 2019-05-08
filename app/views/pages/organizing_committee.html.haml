@@ -12,7 +12,6 @@
           %div{class: 'row'}
             %img{class: 'oc-photo',
                  src: "#{asset_path('photos/' + (m[1] == nil ? 'user_placeholder' : m[1]) + '.jpg')}"}
-          %div{class: 'row'}
             %div{class: 'oc-name'}
               = m[0].split(/,/)[0].strip
               %br
