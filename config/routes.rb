@@ -19,7 +19,6 @@ Rails.application.routes.draw do
   get      '/conf_glance', to: 'pages#conf_glance'
   get      '/conf_schedule', to: 'pages#conf_schedule'
   get      '/conf_plenary', to: 'pages#conf_keynotes'
-  get      '/conf_keynotes', to: 'pages#conf_keynotes'
   get      '/conf_papers', to: 'pages#conf_papers'
   get      '/conf_workshops', to: 'pages#conf_workshops'
   get      '/conf_tutorials', to: 'pages#conf_tutorials'
@@ -52,6 +51,9 @@ Rails.application.routes.draw do
   get      '/copyright', to: 'pages#copyright'
   get      '/copyright_completed', to: 'pages#copyright_completed'
   get      '/program_info', to: 'pages#program_info'
+  get      '/quick_guide', to: 'pages#quick_guide'
+  get      '/general_info', to: 'pages#general_info'
+  get      '/explore_island', to: 'pages#explore_island'
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end

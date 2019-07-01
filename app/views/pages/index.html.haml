@@ -92,67 +92,67 @@
       Signal and Information Processing Education
 
 
-  %div{class: 'col-xs-12 col-sm-7'}
-    %hr
-    %div{class: 'splash-bright'}
-    %div{class: 'h3 text-center'}
-      Registration Time
-    %table{class: 'table', style:"text-align:center "}
-      %tr
-        %td Sunday
-        %td 12:00 PM - 5:00 PM
-      %tr
-        %td Monday
-        %td 7:30 AM - 5:00 PM
-      %tr
-        %td Tuesday
-        %td 7:30 AM - 6:00 PM
-      %tr
-        %td Wednesday
-        %td 7:30 AM - 6:00 PM
-      %tr
-        %td Thursday
-        %td 7:30 AM - 6:00 PM
-      %tr
-        %td Friday
-        %td 8:00 AM - 3:30 PM
-    /program_guide Download
-    %div{id: 'jumbotron-title'}
-      %div{class: 'col-xs-12 col-sm 6'}
-        /%a{href: '/icme2018_program_guide.pdf'}
-        %center
-          %div{class: 'alert alert-warning', style: 'width:300px'}
-            %div{class: 'glyphicon glyphicon-book', style: 'font-size: 64px'}
-            %div{style: 'font-size: 24px'} Program Guide
-  %div{class: 'col-xs-12 col-sm-5'}
-    %div{id: 'landing-carousel', class: 'carousel slide', 'data-ride' => 'carousel'}
-      %ol{class: 'carousel-indicators carousel-landing'}
-        %li{'data-target' => '#landing-carousel', 'data-slide-to' => 0, class: 'active'}
-        - (@carousels.count - 1).times do |i|
-          %li{'data-target' => '#landing-carousel', 'data-slide-to' => i + 1}
-
-      %div{class: 'carousel-inner'}
-        %div{class: 'item active'}
-          - filepath = "photos/#{@carousels.keys[0]}.jpg"
-          - relpath = asset_path(filepath)
-          %img{src: "#{relpath}", alt: "#{@carousels.keys[0]}", class: 'carousel' }
-          %div{class: 'carousel-landing-caption'}
-            %h3{class: 'carousel-name'}= @carousels.keys[0]
-            %p{class: 'carousel-entry'}= raw @carousels[@carousels.keys[0]].join('<br />')
-        - @carousels.keys[1..-1].each do |key|
-          - item = @carousels[key]
-          - filepath = "photos/#{key}.jpg"
-          - relpath = asset_path(filepath)
-          %div{class: 'item'}
-            %img{src: "#{relpath}", alt: key, class: 'carousel'}
-            %div{class: 'carousel-landing-caption'}
-              %h3{class: 'carousel-name'}= key
-              %p{class: 'carousel-entry'}= raw item.join('<br />')
-
-      %a{class: 'left carousel-control carousel-landing', href: '#landing-carousel', 'data-slide' => 'prev'}
-        %span{class: 'glyphicon glyphicon-chevron-left'}
-      %a{class: 'right carousel-control carousel-landing', href: '#landing-carousel', 'data-slide' => 'next'}
-        %span{class: 'glyphicon glyphicon-chevron-right'}
+  -#%div{class: 'col-xs-12 col-sm-7'}
+  -#  %hr
+  -#  %div{class: 'splash-bright'}
+  -#  %div{class: 'h3 text-center'}
+  -#    Registration Time
+  -#  %table{class: 'table', style:"text-align:center "}
+  -#    %tr
+  -#      %td Sunday
+  -#      %td 12:00 PM - 5:00 PM
+  -#    %tr
+  -#      %td Monday
+  -#      %td 7:30 AM - 5:00 PM
+  -#    %tr
+  -#      %td Tuesday
+  -#      %td 7:30 AM - 6:00 PM
+  -#    %tr
+  -#      %td Wednesday
+  -#      %td 7:30 AM - 6:00 PM
+  -#    %tr
+  -#      %td Thursday
+  -#      %td 7:30 AM - 6:00 PM
+  -#    %tr
+  -#      %td Friday
+  -#      %td 8:00 AM - 3:30 PM
+  -#  /program_guide Download
+  -#  %div{id: 'jumbotron-title'}
+  -#    %div{class: 'col-xs-12 col-sm 6'}
+  -#      /%a{href: '/icme2018_program_guide.pdf'}
+  -#      %center
+  -#        %div{class: 'alert alert-warning', style: 'width:300px'}
+  -#          %div{class: 'glyphicon glyphicon-book', style: 'font-size: 64px'}
+  -#          %div{style: 'font-size: 24px'} Program Guide
+  -#%div{class: 'col-xs-12 col-sm-5'}
+  -#  %div{id: 'landing-carousel', class: 'carousel slide', 'data-ride' => 'carousel'}
+  -#    %ol{class: 'carousel-indicators carousel-landing'}
+  -#      %li{'data-target' => '#landing-carousel', 'data-slide-to' => 0, class: 'active'}
+  -#      - (@carousels.count - 1).times do |i|
+  -#        %li{'data-target' => '#landing-carousel', 'data-slide-to' => i + 1}
+  -#
+  -#    %div{class: 'carousel-inner'}
+  -#      %div{class: 'item active'}
+  -#        - filepath = "photos/#{@carousels.keys[0]}.jpg"
+  -#        - relpath = asset_path(filepath)
+  -#        %img{src: "#{relpath}", alt: "#{@carousels.keys[0]}", class: 'carousel' }
+  -#        %div{class: 'carousel-landing-caption'}
+  -#          %h3{class: 'carousel-name'}= @carousels.keys[0]
+  -#          %p{class: 'carousel-entry'}= raw @carousels[@carousels.keys[0]].join('<br />')
+  -#      - @carousels.keys[1..-1].each do |key|
+  -#        - item = @carousels[key]
+  -#        - filepath = "photos/#{key}.jpg"
+  -#        - relpath = asset_path(filepath)
+  -#        %div{class: 'item'}
+  -#          %img{src: "#{relpath}", alt: key, class: 'carousel'}
+  -#          %div{class: 'carousel-landing-caption'}
+  -#            %h3{class: 'carousel-name'}= key
+  -#            %p{class: 'carousel-entry'}= raw item.join('<br />')
+  -#
+  -#    %a{class: 'left carousel-control carousel-landing', href: '#landing-carousel', 'data-slide' => 'prev'}
+  -#      %span{class: 'glyphicon glyphicon-chevron-left'}
+  -#    %a{class: 'right carousel-control carousel-landing', href: '#landing-carousel', 'data-slide' => 'next'}
+  -#      %span{class: 'glyphicon glyphicon-chevron-right'}
 
 
 = javascript_include_tag 'layout_helper'
@@ -171,3 +171,4 @@
     display: none;
     cursor: pointer;
   }
+

@@ -1,0 +1,131 @@
+
+%h1 Travel Information
+%br
+%div{class:'row'}
+	%div{class:'col-xs-3'}
+		%button{class:'btn btn-default btn-lg', type:'button', onclick:"location.href='./travel'"} 1. Explore New Zealand
+	%div{class:'col-xs-3'}
+		%button{class:'btn btn-default btn-lg', type:'button', onclick:"location.href='./general_info'"} 2. General information
+	%div{class:'col-xs-3'}
+		%button{class:'btn btn-default btn-lg', type:'button', onclick:"location.href='./explore_island'"} 3. Explore Island
+	%div{class:'col-xs-3'}
+		%button{class:'btn btn-default btn-lg', type:'button', onclick:"location.href='./quick_guide'"} 4. Quick links guide
+-#	%p
+-#	  -#%a{href: 'https://lajolla.regency.hyatt.com/en/hotel/our-hotel/map-and-directions.html?icamp=propMapDirections', target: '_drivinginfo'}
+-#	  Driving Directions
+-#  		%span{class: 'glyphicon glyphicon-new-window'}
+-#%address
+-#  50 Mayoral Dr, Auckland, 1010 New Zealand
+-#  %br
+-#  Auckland, 1010 New Zealand
+-#  %br
+-#  %abbr{title: 'Phone'} Tel:
+-#  +64 9-307 5626
+-#%iframe{width:"800", height:"600", frameborder:"0", style:"border:0", id: 'venuemap', src:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15267.579061621647!2d174.75868992607437!3d-36.859731410345475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d47ef872f4b9f%3A0x3876834b05538030!2z7JWE7Jik7Yuw7JWEIOyKpO2AmOyWtA!5e0!3m2!1sko!2skr!4v1557288387913!5m2!1sko!2skr", allowfullscreen: true}
+
+	%i Take advantage of your week in sunny San Diego and discover our local attractions! From beautiful beaches to a variety of museums and eclectic restaurants, "America's Finest City" offers many things to do and see.
+
+%hr
+
+%br
+%div
+%h1 North Island
+%p Experience vibrant cities, serene beaches, geothermal hotspots and our awe-inspiring Maori culture in New Zealand’s North Island.
+%div{class:'row'}
+%div{class: 'col-xs-12 col-md-6 attraction-block'}
+	%img{src: "#{asset_path('attractions/balboa.jpg')}", class: 'attraction'}
+	%div{class: 'title'} Balboa Park
+
+%div{class: 'col-xs-12 col-md-6 attraction-block'}
+	%img{src: "#{asset_path('attractions/beach.jpg')}", class: 'attraction'}
+	%div{class: 'title'} Miles of Beaches
+
+%div{class: 'row'}
+%div{class: 'col-xs-12 col-md-4 attraction-block'}
+	%img{src: "#{asset_path('attractions/oldtown.jpg')}", class: 'attraction'}
+	%div{class: 'title'} Old Town
+
+%div{class: 'col-xs-12 col-md-4 attraction-block'}
+	%img{src: "#{asset_path('attractions/zoo.jpg')}", class: 'attraction'}
+	%div{class: 'title'} San Diego Zoo
+
+
+%div{class: 'col-xs-12 col-md-4 attraction-block'}
+	%img{src: "#{asset_path('attractions/seaport.jpg')}", class: 'attraction'}
+	%div{class: 'title'} Seaport Village
+
+%div{class: 'row'}
+%div{class: 'col-xs-12 col-md-4 attraction-block'}
+	%img{src: "#{asset_path('attractions/zoo.jpg')}", class: 'attraction'}
+	%div{class: 'title'} San Diego Zoo
+
+%div{class: 'col-xs-12 col-md-4 attraction-block'}
+	%img{src: "#{asset_path('attractions/torrey.jpg')}", class: 'attraction'}
+	%div{class: 'title multi'}
+		Torrey Pines
+		%div{class: 'small'} State Natural Reserve
+
+%div{class: 'col-xs-12 col-md-4 attraction-block'}
+	%img{src: "#{asset_path('attractions/seaport.jpg')}", class: 'attraction'}
+	%div{class: 'title'} Seaport Village
+
+%hr
+
+%div{class:'row'}
+%h1 South Island
+%p Venture to the South Island and you will be met by lofty mountains, stunning lakes, fiords and glaciers – the landscapes here are famous the world over.
+
+%div{class:'row'}
+%div{class: 'col-xs-12 col-md-6 attraction-block'}
+	%img{src: "#{asset_path('attractions/balboa.jpg')}", class: 'attraction'}
+	%div{class: 'title'} Balboa Park
+
+%div{class: 'col-xs-12 col-md-6 attraction-block'}
+	%img{src: "#{asset_path('attractions/beach.jpg')}", class: 'attraction'}
+	%div{class: 'title'} Miles of Beaches
+
+%div{class: 'row'}
+%div{class: 'col-xs-12 col-md-6 attraction-block'}
+	%img{src: "#{asset_path('attractions/zoo.jpg')}", class: 'attraction'}
+	%div{class: 'title'} San Diego Zoo
+
+%div{class: 'col-xs-12 col-md-6 attraction-block'}
+	%img{src: "#{asset_path('attractions/oldtown.jpg')}", class: 'attraction'}
+	%div{class: 'title'} Old Town
+
+%div{class: 'row'}
+%div{class: 'col-xs-12 col-md-4 attraction-block'}
+	%img{src: "#{asset_path('attractions/seaport.jpg')}", class: 'attraction'}
+	%div{class: 'title'} Seaport Village
+
+
+%div{class: 'col-xs-12 col-md-4 attraction-block'}
+	%img{src: "#{asset_path('attractions/torrey.jpg')}", class: 'attraction'}
+	%div{class: 'title multi'}
+		Torrey Pines
+		%div{class: 'small'} State Natural Reserve
+
+%div{class: 'col-xs-12 col-md-4 attraction-block'}
+	%img{src: "#{asset_path('attractions/zoo.jpg')}", class: 'attraction'}
+	%div{class: 'title'} San Diego Zoo
+
+%div{class: 'row'}
+%div{class: 'col-xs-12 col-md-4 attraction-block'}
+	%img{src: "#{asset_path('attractions/seaport.jpg')}", class: 'attraction'}
+	%div{class: 'title'} Seaport Village
+
+
+%div{class: 'col-xs-12 col-md-4 attraction-block'}
+	%img{src: "#{asset_path('attractions/torrey.jpg')}", class: 'attraction'}
+	%div{class: 'title multi'}
+		Torrey Pines
+		%div{class: 'small'} State Natural Reserve
+
+%div{class: 'col-xs-12 col-md-4 attraction-block'}
+	%img{src: "#{asset_path('attractions/zoo.jpg')}", class: 'attraction'}
+	%div{class: 'title'} San Diego Zoo
+
+%div{class:'row', style:'text-align:center'}
+	%p
+		%iframe{src:'https://www.youtube.com/embed/Atf_Af1q_5w', width:'560px', height:'315', frameborder:'0px', allow:'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'}
+
