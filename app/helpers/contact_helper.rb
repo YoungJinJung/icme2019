@@ -140,9 +140,13 @@ module ContactHelper
     sponsor: {
       title: 'Sponsor Chairs',
       members: ['Thomas Fang Zheng,Tsinghua University',
-                'Lei Xie,Northwestern Polytechnical University'],
+                'Lei Xie,Northwestern Polytechnical University',
+                'Yun Sing Koh,The University of Auckland',
+                'Nitish Patel,The University of Auckland'],
       photos: ['32-Zheng',
-               '33-Xie'],
+               '33-Xie',
+               '1001-Yun Sing Koh',
+               '1001- Nitish Patel'],
       emails: ['fzheng@tsinghua.edu.cn',
                'lxie@nwpu.edu.cn']
     },
