@@ -59,7 +59,7 @@ module ContactHelper
                  '13-Kajikawa',
                  '14-He',
                  '15-Wang',
-                 '16-Aramvith',
+                 '1001-IsaoEchizen',
                  '17-Echizen',
                  '18-Ibi',
                  '19-Yu',
@@ -123,7 +123,12 @@ module ContactHelper
     #     photos: ['28-Su'],
     #     emails: ['guanmingsu@gmail.com']
     # },
-
+    industrial_forum: {
+        title: 'Industrial Forum Chairs',
+        members: ['Xun Xu,The University of Auckland'],
+        photos: ['1001-Xun Xu'],
+        emails: []
+    },
     special_session: {
       title: 'Special Session Chairs',
       members: ['Wen-Huang Cheng,National Chiao-Tung University',
@@ -153,15 +158,15 @@ module ContactHelper
 
     finance: {
       title: 'Finance Chair',
-      members: ['Kenneth Lam,Hong Kong Polytechnical University'],
-      photos: ['34-Lam'],
+      members: ['Kenneth Lam,Hong Kong Polytechnical University','Nirmal Nair,The University of Auckland'],
+      photos: ['34-Lam','1001-Nirmal Nair'],
       emails: ['kin.man.lam@polyu.edu.hk']
     },
 
     registration: {
         title: 'Registration Chair',
-        members: ['Bonnie N.F. Law,Hong Kong Polytechnical University'],
-        photos: ['35-Law'],
+        members: ['Bonnie N.F. Law,Hong Kong Polytechnical University','Iman T. Ardekani,Unitec institute of technology'],
+        photos: ['35-Law','1001-Iman T. Ardekani'],
         emails: ['ngai.fong.law@polyu.edu.hk']
     },
 
@@ -185,18 +190,32 @@ module ContactHelper
                 'Ming-Ting Sun,University of Washington',
                 'Roberto Togneri,The University of Western Australia',
                 'Changchun Bao ,Beijing University fo Technology',
-                'Yo-Sung Ho,Gwangju Institute of Science and Technology'],
+                'Yo-Sung Ho,Gwangju Institute of Science and Technology',
+                'Martin Drahansky, Brno University of Technology'],
       photos: ['39-Saruwatari',
                '40-Sun',
                '41-Togneri',
                '42-Bao',
-               '38-Ho'],
+               '38-Ho','1001-Martin Drahansky '],
       emails: ['hoyo@gist.ac.kr',
                'hiroshi_saruwatari@ipc.i.u-tokyo.ac.jp',
                'sun@ee.washington.edu',
                'roberto.togneri@uwa.edu.au',
                'chchbao@bjut.edu.cn'
       ]
+    },
+
+    web: {
+        title: 'Local Management Committee',
+        members: ['Akshya Swain (Chair), The University of Auckland',
+                  'William Lee,The University of Auckland',
+                  'Yuqian Lu,The University of Auckland',
+                  'Ho Seok,The University of Auckland'],
+        photos: ['1001-Akshya Swain (Chair)',
+                 'William Lee',
+                 '1001-Yuqian Lu',
+                 '1001-Ho Seok'],
+        emails: []
     },
   }
 
