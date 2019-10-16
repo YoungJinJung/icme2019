@@ -1,44 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="Update dates and panel order">
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/1001-Akshya Swain (Chair).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/1001-Ho Seok.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/1001-Yuqian Lu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/application-e7fbaf55fb35638a733c36c0b50e12e43404d43a687ea4f8b44af3e6c4f6b514.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/application-e7fbaf55fb35638a733c36c0b50e12e43404d43a687ea4f8b44af3e6c4f6b514.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/attractions/05808-Nydia-Track-Marlborough-Armin-Wurmser-Tina-Gerber-1e7e0419d7d094035da7f08132e1c94c068d6955f864257e0b719c010bb5a0ef.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/attractions/6657-Wellington-City-Wellington-Julian-Apse-bd5b709fa63bd0cbe41acd7f2821e2a329938b54ecfeb386cf7de76ebbf1c94a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/attractions/908-Oparara Arches-West Coast-Fraser-Clements-15c80b240837873634cece2e4dcddb34532634f6a6f6082435dc0d3d9ee695f0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/attractions/new-zealand-0fcec714b6193255867198b34d055fc1364f2fcf6007c54f1f3ea9dbdcd75ea3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/logo/logo-aukuni-286230cc19b4e04135d64192a32dd0ef9e7477c32dd0c4a0e214bd5cb1a03f14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/logo/logo-compendex-515da55a2e79355abe82c3a3ebd888383220b1618a471692d8116a7a0b1f413e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/logo/logo-ieee-3d893e8f82ac421762be83300f753fb8df8dfe7e73a00e41f6cb5a08c2b63ed8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/logo/logo-purenewzealand-673d3a3866e280dc6ba78712c0acac9d87260017e3b36641975ca95a7145b930.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/logo/logo-unsw-3c509708c89b2c73f74d3bf7c0a76723d5e308b99f48384c8b6e3baf821946d1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/logo/logo-xplore-045970b2584b0f7d0adbc3585bb9a1991b9728ae7067ef63c693eb6c2ed61821.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/main-cf6648d0fed64203f705874fc78080347e3a977b8f02abf5930bcc17fbab90a3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/main-cf6648d0fed64203f705874fc78080347e3a977b8f02abf5930bcc17fbab90a3.css.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/1001- Nitish Patel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/1001-Akshya Swain (Chair)-1c23608260460ad5ef1505660e10f74c53192abded753dfe7420d249c84d3a35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/1001-Ho Seok-be0afec9044d8e3af30cf90da69cdc2186562140877be3cf7f3c2ee0aa13e1de.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/1001-Iman T. Ardekani-be87c292ccdd2cdab540781c5b595e34620c70957bc610f4ab3c1b4d4e5adb1f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/1001-IsaoEchizen-e36bb2de759c885e31e60ab5659d0ac11de18a77cfd48160d9c03d0200ec43d4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/1001-Martin Drahansky -cac51617b99279fe333d3e8a96608868d0f2b52d89a370cc62103ce37a883405.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/1001-Nirmal Nair-eea942861c13cc8e5d37f10d569b490126417b9d27d714b4c300cddbd32ab9eb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/1001-Xun Xu-5b5df5fead7e6945420391437858b7b95fb95d7714318ce8240311189e5fcf3a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/1001-Yun Sing Koh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/1001-Yuqian Lu-a95aaffeb7b91119ee818b15a1b345ed9d3066e3d355584f80c84ad212cfcb2f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/William Lee-b053ca12dd2f1caf42bffbe99cdaf3fb91008a5c76f220ad54c66e76c23f38ef.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ASPIPA_2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ASPIPA_2020.iml" afterDir="false" />
+    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/1001-Akshya Swain (Chair).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/images/photos/1001-Akshya Swain (Chair).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/photos/1001-Yuqian Lu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/images/photos/1001-Yuqian Lu.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/helpers/contact_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/contact_helper.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/.sprockets-manifest-525f52c18b1775971c206cf636d5fdfe.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/.sprockets-manifest-525f52c18b1775971c206cf636d5fdfe.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -183,7 +149,7 @@
       <workItem from="1562036688005" duration="623000" />
       <workItem from="1562051866023" duration="7480000" />
       <workItem from="1569872556869" duration="2927000" />
-      <workItem from="1570127921853" duration="8100000" />
+      <workItem from="1570127921853" duration="16350000" />
     </task>
     <task id="LOCAL-00001" summary="init commit (2018 icme)">
       <created>1554195256180</created>
@@ -297,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570228113422</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add committee memebers 1005">
+      <created>1570246267142</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1570246267142</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,9 +321,10 @@
     <MESSAGE value="UI Update&#10;Map Locatiton Modified&#10;Program Information add&#10;committee Profile Update&#10;Font Size update&#10;out link delete" />
     <MESSAGE value="fix : date Nov 18 -&gt; Dec 7&#10;add program info page" />
     <MESSAGE value="Travel Information Page update" />
-    <MESSAGE value="Update dates and panel order" />
     <MESSAGE value="add sponsered committee" />
-    <option name="LAST_COMMIT_MESSAGE" value="add sponsered committee" />
+    <MESSAGE value="Update dates and panel order" />
+    <MESSAGE value="Add committee memebers 1005" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add committee memebers 1005" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
