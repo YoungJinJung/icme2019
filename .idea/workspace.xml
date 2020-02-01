@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/keynot_Nikola.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/keynote_david.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/photos/keynot_Nikola-2c1e212a38f8a5a427cda9f38ee4200d66c2219dce2eab0ad9f347906155a1ec.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/photos/keynote_david-db2ecaeecba0c2f26adb8475b0fb55467b87e43df4860f97c581cdf3a6604b2e.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/pages/conf_keynotes.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/conf_keynotes.html.haml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/.sprockets-manifest-525f52c18b1775971c206cf636d5fdfe.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/.sprockets-manifest-525f52c18b1775971c206cf636d5fdfe.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +160,7 @@
       <workItem from="1569872556869" duration="2927000" />
       <workItem from="1570127921853" duration="16350000" />
       <workItem from="1575314606912" duration="18157000" />
-      <workItem from="1578898988571" duration="6940000" />
+      <workItem from="1578898988571" duration="11277000" />
     </task>
     <task id="LOCAL-00001" summary="init commit (2018 icme)">
       <created>1554195256180</created>
@@ -339,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579558093184</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary=" keynotes font size">
+      <created>1579558813945</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1579558813945</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,13 +413,14 @@
     <MESSAGE value="pdf upload and modification 12/4" />
     <MESSAGE value="flyer change and replace Shinsuke Ibi by Osamu Takyu" />
     <MESSAGE value="add keynotes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add keynotes" />
+    <MESSAGE value=" keynotes font size" />
+    <option name="LAST_COMMIT_MESSAGE" value=" keynotes font size" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2" timestamp="1579558091418">
+    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2" timestamp="1579558812178">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
-    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1579558091418" />
+    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1579558812178" />
     <state width="1352" height="290" key="GridCell.Tab.0.bottom" timestamp="1575335330421">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
@@ -428,10 +441,10 @@
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="370" y="269" key="SettingsEditor/57.24.1863.1056@57.24.1863.1056" timestamp="1575332214183" />
-    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1579558108048">
+    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1579558822767">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
-    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1579558108048" />
+    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1579558822767" />
     <state x="711" y="184" width="745" height="792" key="find.popup" timestamp="1578900150240">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
