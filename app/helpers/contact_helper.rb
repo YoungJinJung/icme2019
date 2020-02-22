@@ -130,7 +130,7 @@ module ContactHelper
     special_session: {
       title: 'Special Session Chairs',
       members: ['Wen-Huang Cheng,National Chiao-Tung University',
-                'Jia-Ying Liu,Peking University',
+                'Jiaying Liu,Peking University',
                 'Chang-Su Kim,Korea University'],
       photos: ['29-Cheng',
                '30-Liu',
