@@ -54,6 +54,8 @@ Rails.application.routes.draw do
   get      '/quick_guide', to: 'pages#quick_guide'
   get      '/general_info', to: 'pages#general_info'
   get      '/explore_island', to: 'pages#explore_island'
+  get      '/download_brochure', to: 'pages#download_brochure'
+  get      '/visa_info', to: 'pages#visa_info'
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
