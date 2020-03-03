@@ -13,21 +13,24 @@ module DateHelper
                  notified: true,
                  submission: true,
                  see: false},
-      proposal_for: {title: 'Proposals for Special Sessions, Forum, Panel & Tutorial Sessions',
+      proposal_for: {title: 'Submission of Proposals for Special Sessions, Forum, Panel & Tutorial Sessions',
                      proposal: 'March 1, 2020',
                      type: :nopropose,
                      submission: true,
-                     notified: true},
-      acceptance_for: {title: 'Acceptance for Special Sessions, Forum, Panel & Tutorial Session',
-                       notification: 'April 1, 2020',
-                       type: :nosubmission,
+                     notified: true,
+                     extended: 'April 1, 2020'},
+      acceptance_for: {title: 'Notification of Acceptance for Special Sessions, Forum, Panel & Tutorial Session',
+                       proposal: 'April 1, 2020',
+                       type: :nopropose,
                        submission: true,
-                       notified: true},
+                       notified: true,
+                       extended: 'April 15, 2020'},
+
       online_submission: {title: 'Online Submission Website Ready for Full, Short and Special Sessions Papers Upload',
                           proposal: 'April 8, 2020',
                           type: :nopropose,
                           submission: false},
-      camera_ready: {title: 'Camera Ready Papers',
+      camera_ready: {title: 'Submission of Camera Ready Papers',
                      proposal: 'October 1, 2020',
                      submission: true,
                      is_rebuttal: true,
@@ -91,9 +94,10 @@ module DateHelper
         else
           s.push({
                      date: Date.parse(v[:proposal]),
-                     title: (v[:submission] ? 'Submission of ' : '') + v[:title] + ((v[:type] || :nil) == :nopropose ? '' : ' Proposal'),
+                     title: (v[:submission] ? ' ' : '') + v[:title] + ((v[:type] || :nil) == :nopropose ? '' : ' Proposal'),
                      affix: v[:is_rebuttal] ? nil : :due,
                      extended: v[:extended] ? Date.parse(v[:extended]) : nil,
+
                  })
         end
       end
@@ -104,7 +108,8 @@ module DateHelper
                    date: Date.parse(v[:notification]),
                    title: 'Notification of ' + v[:title] + ' Acceptance',
                    affix: :notification,
-                   notified: v[:notified]
+                   notified: v[:notified],
+                   extended: v[:extended] ? Date.parse(v[:extended]) : nil,
                })
       end
 

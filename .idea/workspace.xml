@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="paper location">
-      <change afterPath="$PROJECT_DIR$/app/views/pages/download_brochure.html.haml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/pages/visa_info.html.haml" afterDir="false" />
+    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/_attendees.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/_attendees.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/accommodations.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/accommodations.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/general_info.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/general_info.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/date_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/date_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/important_dates.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/important_dates.html.haml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/pages/paper.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/paper.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/sponsors.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/sponsors.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/travel.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/travel.html.haml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
     </list>
@@ -163,7 +158,7 @@
       <workItem from="1569872556869" duration="2927000" />
       <workItem from="1570127921853" duration="16350000" />
       <workItem from="1575314606912" duration="18157000" />
-      <workItem from="1578898988571" duration="22241000" />
+      <workItem from="1578898988571" duration="28057000" />
     </task>
     <task id="LOCAL-00001" summary="init commit (2018 icme)">
       <created>1554195256180</created>
@@ -382,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582354502903</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Glod Level” à “Gold Level”">
+      <created>1582878750088</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1582878750088</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +422,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="- logo image &amp; BackGround image change - main page modify(description)&#10;- useless pages cleanup" />
     <MESSAGE value="organizing_committee modified &#10;&#10;- change photo sizes 140 * 140 or Square Size" />
     <MESSAGE value="resizing photos" />
     <MESSAGE value="sponsor program edited&#10;call for * add orginzers" />
@@ -445,13 +446,14 @@
     <MESSAGE value="Special session template attached .xml file" />
     <MESSAGE value="&quot;Jiaying&quot; not &quot;Jia-Ying" />
     <MESSAGE value="paper location" />
-    <option name="LAST_COMMIT_MESSAGE" value="paper location" />
+    <MESSAGE value="Glod Level” à “Gold Level”" />
+    <option name="LAST_COMMIT_MESSAGE" value="Glod Level” à “Gold Level”" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2" timestamp="1582354724613">
+    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2" timestamp="1582878748322">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
-    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1582354724613" />
+    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1582878748322" />
     <state width="1352" height="290" key="GridCell.Tab.0.bottom" timestamp="1575335330421">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
@@ -472,10 +474,10 @@
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="370" y="269" key="SettingsEditor/57.24.1863.1056@57.24.1863.1056" timestamp="1575332214183" />
-    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1582354731986">
+    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1582878787669">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
-    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1582354731986" />
+    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1582878787669" />
     <state x="711" y="184" width="745" height="792" key="find.popup" timestamp="1578900150240">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
@@ -490,7 +492,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="ruby-line">
           <url>file://$PROJECT_DIR$/app/helpers/date_helper.rb</url>
-          <line>129</line>
+          <line>134</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

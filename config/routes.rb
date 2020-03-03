@@ -56,6 +56,6 @@ Rails.application.routes.draw do
   get      '/explore_island', to: 'pages#explore_island'
   get      '/download_brochure', to: 'pages#download_brochure'
   get      '/visa_info', to: 'pages#visa_info'
-
+  cdv
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
