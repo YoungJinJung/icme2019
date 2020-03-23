@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/assets/images/hotels/accomo-2-pullroom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/hotels/accomo_1_cordis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/hotels/accomo_1_room.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/hotels/accomo_2_pullman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/hotels/accomo_3-room.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/venue/Screenshot from 2020-03-23 12-07-33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotels/accomo-2-pullroom-1076342345a4a0014b42b4b399d558f0c45fcb302c720a9e883b61182e01e38d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotels/accomo_1_cordis-b1783ce2d893175b7ae5914e6ed7b7e1c040c0311f57e26cbe52fc355e20c115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotels/accomo_1_room-8024148aa9f58f7f188fe449c09cfb26b02976a6785c4950904326ad9f8979f0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotels/accomo_2_pullman-78142cebcba9a8daa0b6734750a2cadbaee23f089626f5433b8a0e650648bb51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/hotels/accomo_3-room-c9e64683cc96b9ccd985e3d08ff898ed8d6a03f91da4f7d4cc38450f3cf76b64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/venue/Screenshot from 2020-03-23 12-07-33-bc7a99e1753b05317ce579454f035e1ee18d7c8a22879084d9da15cb96f05b04.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/general_info.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/general_info.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/index.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/travel.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/travel.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/accommodations.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/accommodations.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/.sprockets-manifest-525f52c18b1775971c206cf636d5fdfe.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/.sprockets-manifest-525f52c18b1775971c206cf636d5fdfe.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +169,7 @@
       <workItem from="1569872556869" duration="2927000" />
       <workItem from="1570127921853" duration="16350000" />
       <workItem from="1575314606912" duration="18157000" />
-      <workItem from="1578898988571" duration="29602000" />
+      <workItem from="1578898988571" duration="33903000" />
     </task>
     <task id="LOCAL-00001" summary="init commit (2018 icme)">
       <created>1554195256180</created>
@@ -390,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583225129025</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="index area list and download call for paper">
+      <created>1583226877270</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1583226877270</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,8 +447,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="resizing photos" />
-    <MESSAGE value="sponsor program edited&#10;call for * add orginzers" />
     <MESSAGE value="commmiter menu color change&#10;add commiter&#10;clean up menus" />
     <MESSAGE value="important date update&#10;clean up the others menu" />
     <MESSAGE value="UI Update&#10;Map Locatiton Modified&#10;Program Information add&#10;committee Profile Update&#10;Font Size update&#10;out link delete" />
@@ -453,13 +470,15 @@
     <MESSAGE value="paper location" />
     <MESSAGE value="Glod Level” à “Gold Level”" />
     <MESSAGE value="important date extended april 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="important date extended april 15" />
+    <MESSAGE value="index area list and" />
+    <MESSAGE value="index area list and download call for paper" />
+    <option name="LAST_COMMIT_MESSAGE" value="index area list and download call for paper" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2" timestamp="1583225127264">
+    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2" timestamp="1583226875562">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
-    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1583225127264" />
+    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1583226875562" />
     <state width="1352" height="290" key="GridCell.Tab.0.bottom" timestamp="1575335330421">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
@@ -480,10 +499,10 @@
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="370" y="269" key="SettingsEditor/57.24.1863.1056@57.24.1863.1056" timestamp="1575332214183" />
-    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1583225132849">
+    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1583226889390">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
-    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1583225132849" />
+    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1583226889390" />
     <state x="711" y="184" width="745" height="792" key="find.popup" timestamp="1578900150240">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
