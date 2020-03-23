@@ -52,6 +52,7 @@ module ContactHelper
                   'Osamu Takyu, Shinshu University, Japan',
                   'Zhiyi Yu,Sun Yat-sen University',
                   'Kazushi Ikeda,Nara Institute of Science and Technology',
+                  'Jen-Tzung Chien, National Chiao Tung University, Taiwan',
                  ],
         photos: ['10-Cho',
                  '11-Huang',
@@ -64,6 +65,7 @@ module ContactHelper
                  'WCN_OsamuTAKYU',
                  '19-Yu',
                  '20-Ikeda',
+                 'Chien_JenTzung2',
         ],
         emails: ['nicho@snu.ac.kr',
                  'jwhuang@szu.edu.cn',
@@ -75,7 +77,8 @@ module ContactHelper
                  'iechizen@nii.ac.jp',
                  'takyu@shinshu-u.ac.jp',
                  'yuzhiyi@mail.sysu.edu.cn',
-                 'kazushi@is.naist.jp']
+                 'kazushi@is.naist.jp',
+                 'jtchien@nctu.edu.tw']
     },
 
     plenary: {
