@@ -26,10 +26,11 @@
             -#- if d[:notified]
             -#  %span{class: 'date-notified'} &nbsp; NOTIFIED &nbsp;
             - if d[:deadline]
-              %span{class: 'date-deadline'} &nbsp; *** DEADLINE *** &nbsp;
+              %span{class: 'date-deadline'} &nbsp;*** DEADLINE *** &nbsp;
             - if d[:extended]
               %span{class: 'date-extended'} 
                 &nbsp; (Extended
                 = d[:extended].strftime('%B %d, %Y')
                 )&nbsp;
-
+            - if d[:notice]
+              %span{class: 'date-deadline'} &nbsp;  <strike>Due</strike> * Will be open soon * &nbsp;

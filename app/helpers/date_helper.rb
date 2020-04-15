@@ -29,7 +29,9 @@ module DateHelper
       online_submission: {title: 'Online Submission Website Ready for Full, Short and Special Sessions Papers Upload',
                           proposal: 'April 8, 2020',
                           type: :nopropose,
-                          submission: false},
+                          is_rebuttal: true,
+                          type: :nopropose,
+                          notice: 'Will be open soon'},
       camera_ready: {title: 'Submission of Camera Ready Papers',
                      proposal: 'October 1, 2020',
                      submission: true,
@@ -89,15 +91,17 @@ module DateHelper
                      title: v[:title] + ((v[:type] || :nil) == :nopropose ? '' : ' Proposal'),
                      affix: v[:is_rebuttal] ? nil : :due,
                      extended: v[:extended] ? Date.parse(v[:extended]) : nil,
-                     deadline: v[:deadline]
-                 })
+                     deadline: v[:deadline],
+                     notice: v[:notice],
+
+          })
         else
           s.push({
                      date: Date.parse(v[:proposal]),
                      title: (v[:submission] ? ' ' : '') + v[:title] + ((v[:type] || :nil) == :nopropose ? '' : ' Proposal'),
                      affix: v[:is_rebuttal] ? nil : :due,
                      extended: v[:extended] ? Date.parse(v[:extended]) : nil,
-
+                     notice: v[:notice],
                  })
         end
       end
@@ -110,6 +114,7 @@ module DateHelper
                    affix: :notification,
                    notified: v[:notified],
                    extended: v[:extended] ? Date.parse(v[:extended]) : nil,
+                   notice: v[:notice],
                })
       end
 
