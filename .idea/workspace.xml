@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/COVID-19 Scenarios.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/One-Page Papers Guidlines.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/one-page_APSIPA ASC2020_template.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/APSIPA 20 Tutorial details.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/One-Page Papers Guidlines_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/one" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/one-page_APSIPA ASC2020_template_1.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/index.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/paper.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/paper.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/sponsors.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/sponsors.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/_calls.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/_calls.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/tutorial.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/tutorial.html.haml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -114,18 +113,6 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="false" RAILS_SPRING_PRE_LOADER_OPTION="false" />
   <component name="SvnConfiguration">
     <configuration />
@@ -160,7 +147,8 @@
       <workItem from="1569872556869" duration="2927000" />
       <workItem from="1570127921853" duration="16350000" />
       <workItem from="1575314606912" duration="18157000" />
-      <workItem from="1578898988571" duration="41812000" />
+      <workItem from="1578898988571" duration="42598000" />
+      <workItem from="1587545341636" duration="2723000" />
     </task>
     <task id="LOCAL-00001" summary="init commit (2018 icme)">
       <created>1554195256180</created>
@@ -428,20 +416,25 @@
       <option name="project" value="LOCAL" />
       <updated>1586963823421</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="COVID-19 Scenarios.pdf">
+      <created>1587524145273</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1587524145273</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -460,13 +453,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="fix : date Nov 18 -&gt; Dec 7&#10;add program info page" />
     <MESSAGE value="Travel Information Page update" />
     <MESSAGE value="add sponsered committee" />
     <MESSAGE value="Update dates and panel order" />
@@ -491,17 +484,18 @@
     <MESSAGE value="Accommodations" />
     <MESSAGE value="tpc committee Jen-Tzung Chien" />
     <MESSAGE value="april16 -will be open soon" />
-    <option name="LAST_COMMIT_MESSAGE" value="april16 -will be open soon" />
+    <MESSAGE value="COVID-19 Scenarios.pdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="COVID-19 Scenarios.pdf" />
   </component>
   <component name="WindowStateProjectService">
     <state x="656" y="481" width="1097" height="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586963196338">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="656" y="481" width="1097" height="389" key="#com.intellij.fileTypes.FileTypeChooser/57.24.1863.1056@57.24.1863.1056" timestamp="1586963196338" />
-    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2" timestamp="1586963821657">
+    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2" timestamp="1587524143498">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
-    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1586963821657" />
+    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1587524143498" />
     <state width="1352" height="290" key="GridCell.Tab.0.bottom" timestamp="1575335330421">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
@@ -522,10 +516,10 @@
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="370" y="269" key="SettingsEditor/57.24.1863.1056@57.24.1863.1056" timestamp="1575332214183" />
-    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1586963827422">
+    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1587524157960">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
-    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1586963827422" />
+    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1587524157960" />
     <state x="57" y="316" width="692" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587522136916">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
