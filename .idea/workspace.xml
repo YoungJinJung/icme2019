@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/APSIPA 20 Tutorial details.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/One-Page Papers Guidlines_1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/one" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/one-page_APSIPA ASC2020_template_1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/_calls.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/_calls.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/tutorial.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/tutorial.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
-    </list>
+    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +139,7 @@
       <workItem from="1570127921853" duration="16350000" />
       <workItem from="1575314606912" duration="18157000" />
       <workItem from="1578898988571" duration="42598000" />
-      <workItem from="1587545341636" duration="2723000" />
+      <workItem from="1587545341636" duration="3532000" />
     </task>
     <task id="LOCAL-00001" summary="init commit (2018 icme)">
       <created>1554195256180</created>
@@ -423,7 +414,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587524145273</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="tutorial">
+      <created>1588064434309</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1588064434309</updated>
+    </task>
+    <task id="LOCAL-00041" summary="br">
+      <created>1588064601403</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1588064601403</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,8 +465,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Travel Information Page update" />
-    <MESSAGE value="add sponsered committee" />
     <MESSAGE value="Update dates and panel order" />
     <MESSAGE value="Add committee memebers 1005" />
     <MESSAGE value="logo change" />
@@ -485,53 +488,27 @@
     <MESSAGE value="tpc committee Jen-Tzung Chien" />
     <MESSAGE value="april16 -will be open soon" />
     <MESSAGE value="COVID-19 Scenarios.pdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="COVID-19 Scenarios.pdf" />
+    <MESSAGE value="tutorial" />
+    <MESSAGE value="br" />
+    <option name="LAST_COMMIT_MESSAGE" value="br" />
   </component>
   <component name="WindowStateProjectService">
     <state x="656" y="481" width="1097" height="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586963196338">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="656" y="481" width="1097" height="389" key="#com.intellij.fileTypes.FileTypeChooser/57.24.1863.1056@57.24.1863.1056" timestamp="1586963196338" />
-    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2" timestamp="1587524143498">
+    <state x="507" y="26" width="914" height="806" key="CommitChangelistDialog2" timestamp="1588064599681">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
-    <state x="507" y="26" width="862" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1587524143498" />
-    <state width="1352" height="290" key="GridCell.Tab.0.bottom" timestamp="1575335330421">
+    <state x="507" y="26" width="914" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1588064599681" />
+    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1588064605506">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
-    <state width="1352" height="290" key="GridCell.Tab.0.bottom/57.24.1863.1056@57.24.1863.1056" timestamp="1575335330421" />
-    <state width="1352" height="290" key="GridCell.Tab.0.center" timestamp="1575335330420">
-      <screen x="57" y="24" width="1863" height="1056" />
-    </state>
-    <state width="1352" height="290" key="GridCell.Tab.0.center/57.24.1863.1056@57.24.1863.1056" timestamp="1575335330420" />
-    <state width="1352" height="290" key="GridCell.Tab.0.left" timestamp="1575335330420">
-      <screen x="57" y="24" width="1863" height="1056" />
-    </state>
-    <state width="1352" height="290" key="GridCell.Tab.0.left/57.24.1863.1056@57.24.1863.1056" timestamp="1575335330420" />
-    <state width="1352" height="290" key="GridCell.Tab.0.right" timestamp="1575335330421">
-      <screen x="57" y="24" width="1863" height="1056" />
-    </state>
-    <state width="1352" height="290" key="GridCell.Tab.0.right/57.24.1863.1056@57.24.1863.1056" timestamp="1575335330421" />
-    <state x="370" y="269" key="SettingsEditor" timestamp="1575332214183">
-      <screen x="57" y="24" width="1863" height="1056" />
-    </state>
-    <state x="370" y="269" key="SettingsEditor/57.24.1863.1056@57.24.1863.1056" timestamp="1575332214183" />
-    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1587524157960">
-      <screen x="57" y="24" width="1863" height="1056" />
-    </state>
-    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1587524157960" />
+    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1588064605506" />
     <state x="57" y="316" width="692" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587522136916">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="57" y="316" width="692" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/57.24.1863.1056@57.24.1863.1056" timestamp="1587522136916" />
-    <state x="711" y="184" width="745" height="792" key="find.popup" timestamp="1578900150240">
-      <screen x="57" y="24" width="1863" height="1056" />
-    </state>
-    <state x="711" y="184" width="745" height="792" key="find.popup/57.24.1863.1056@57.24.1863.1056" timestamp="1578900150240" />
-    <state x="641" y="345" width="686" height="412" key="git4idea.merge.GitPullDialog" timestamp="1575314954038">
-      <screen x="57" y="24" width="1863" height="1056" />
-    </state>
-    <state x="641" y="345" width="686" height="412" key="git4idea.merge.GitPullDialog/57.24.1863.1056@57.24.1863.1056" timestamp="1575314954038" />
     <state x="872" y="395" width="672" height="678" key="search.everywhere.popup" timestamp="1585184519221">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
