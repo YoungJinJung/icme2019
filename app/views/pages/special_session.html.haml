@@ -22,5 +22,14 @@
 //<a href= "w.abdulla@auckland.ac.nz", target: 'auckland email'> "w.abdulla@auckland.ac.nz"</a>
 -#%a{href: "mailto:#{m[2]}"}
 
-= render 'deadline', target: :special_session
+-# = render 'deadline', target: :special_session
+%br
+%h3 Important Dates
+%p
+  %ul
+    %li <strike>Special Session proposal submission deadline: March 1, 2020</strike>
+    %li <strike>Special Session proposal acceptance notification: April 1, 2020</strike>
+    %br
+
+
 = render 'chairs', target: :special_session, with_emails: true
