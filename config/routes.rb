@@ -56,6 +56,7 @@ Rails.application.routes.draw do
   get      '/explore_island', to: 'pages#explore_island'
   get      '/download_brochure', to: 'pages#download_brochure'
   get      '/visa_info', to: 'pages#visa_info'
+  # get      '/forum_talk', to : <a href= "APSIPA 20 Tutorial details.pdf", style= "font-weight: bold"> 'APSIPA ASC 2020 Tutorials List and Abstracts'</a>
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
