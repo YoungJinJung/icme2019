@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/.config.ru.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/APSIPA 2020 - Flyer- Virtual.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/COVID-19 Fully Virtual.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ASPIPA_2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ASPIPA_2020.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/helpers/date_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/date_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/index.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/paper.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/paper.html.haml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +155,9 @@
       <workItem from="1578898988571" duration="42598000" />
       <workItem from="1587545341636" duration="12035000" />
       <workItem from="1592449501013" duration="3673000" />
-      <workItem from="1593395390997" duration="627000" />
+      <workItem from="1593395390997" duration="3901000" />
+      <workItem from="1593761499370" duration="2200000" />
+      <workItem from="1593763935287" duration="1457000" />
     </task>
     <task id="LOCAL-00001" summary="init commit (2018 icme)">
       <created>1554195256180</created>
@@ -483,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593079470007</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="early bird date change(nov 1)">
+      <created>1593396051699</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1593396051699</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +539,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="pdf upload and modification 12/4" />
     <MESSAGE value="flyer change and replace Shinsuke Ibi by Osamu Takyu" />
     <MESSAGE value="add keynotes" />
     <MESSAGE value=" keynotes font size" />
@@ -545,29 +563,35 @@
     <MESSAGE value="paper submission" />
     <MESSAGE value="paper submission2" />
     <MESSAGE value="submission date change" />
-    <option name="LAST_COMMIT_MESSAGE" value="submission date change" />
+    <MESSAGE value="early bird date change(nov 1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="early bird date change(nov 1)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="656" y="481" width="1097" height="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586963196338">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="656" y="481" width="1097" height="389" key="#com.intellij.fileTypes.FileTypeChooser/57.24.1863.1056@57.24.1863.1056" timestamp="1586963196338" />
-    <state x="507" y="26" width="914" height="806" key="CommitChangelistDialog2" timestamp="1593079466826">
+    <state x="507" y="26" width="914" height="806" key="CommitChangelistDialog2" timestamp="1593396049939">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
-    <state x="507" y="26" width="914" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1593079466826" />
-    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1593079516840">
+    <state x="507" y="26" width="914" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1593396049939" />
+    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1593396076729">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
-    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1593079516840" />
+    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1593396076729" />
     <state x="57" y="316" width="692" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589433414649">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="57" y="316" width="692" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/57.24.1863.1056@57.24.1863.1056" timestamp="1589433414649" />
-    <state x="736" y="322" width="730" height="518" key="find.popup" timestamp="1589431694418">
-      <screen x="57" y="24" width="1863" height="1056" />
+    <state x="1290" y="424" width="1326" height="695" key="find.popup" timestamp="1593765459509">
+      <screen x="57" y="24" width="3383" height="1416" />
     </state>
     <state x="736" y="322" width="730" height="518" key="find.popup/57.24.1863.1056@57.24.1863.1056" timestamp="1589431694418" />
+    <state x="1290" y="424" width="1326" height="695" key="find.popup/57.24.3383.1416@57.24.3383.1416" timestamp="1593765459509" />
+    <state x="616" y="455" width="686" height="422" key="git4idea.merge.GitPullDialog" timestamp="1593762217650">
+      <screen x="57" y="24" width="3383" height="1416" />
+    </state>
+    <state x="616" y="455" width="686" height="422" key="git4idea.merge.GitPullDialog/57.24.3383.1416@57.24.3383.1416" timestamp="1593762217650" />
     <state x="872" y="395" width="672" height="678" key="search.everywhere.popup" timestamp="1585184519221">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>

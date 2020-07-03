@@ -33,7 +33,10 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'haml-rails'
 gem 'awesome_print'
-gem 'rspec-rails'
+# gem 'rspec-rails'
+group :development, :test do
+  gem 'rspec-rails', '~> 3.7'
+end
 gem 'bootstrap-sass'
 
 group :development, :test do
@@ -58,3 +61,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 ##gem 'bootstrap', '~> 4.1.3'
 #gem 'wicked_pdf'
 #gem 'wkhtmltopdf-binary'
+#
+#
