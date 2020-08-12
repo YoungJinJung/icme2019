@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/APSIPA 2020 - Flyer- Virtual- Registration.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/index.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/paper.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/paper.html.haml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/summer_school.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/_program.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/_program.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +36,13 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/YoungJinJung/ASPIPA2020.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1RZRI4cauVEKhr4xa8m8c3WJ9rH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -148,14 +156,9 @@
       <workItem from="1592449501013" duration="3673000" />
       <workItem from="1593395390997" duration="3901000" />
       <workItem from="1593761499370" duration="2200000" />
-      <workItem from="1593763935287" duration="3835000" />
-    </task>
-    <task id="LOCAL-00004" summary="- logo image &amp; BackGround image change&#10;- main page modify(description)">
-      <created>1555303334075</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1555303334075</updated>
+      <workItem from="1593763935287" duration="5657000" />
+      <workItem from="1595478033988" duration="599000" />
+      <workItem from="1597195752785" duration="5782000" />
     </task>
     <task id="LOCAL-00005" summary="- logo image &amp; BackGround image change&#10;- main page modify(description)">
       <created>1556272807870</created>
@@ -493,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594607129639</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="virtual flyer -&gt; paper">
+      <created>1594618844230</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1594618844230</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,16 +572,16 @@
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="656" y="481" width="1097" height="389" key="#com.intellij.fileTypes.FileTypeChooser/57.24.1863.1056@57.24.1863.1056" timestamp="1586963196338" />
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1594607127820">
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1594618842481">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
     <state x="507" y="26" width="914" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1593396049939" />
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1594607127820" />
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1594607158644">
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1594618842481" />
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1594618859374">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
     <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1593396076729" />
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1594607158644" />
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1594618859374" />
     <state x="57" y="316" width="692" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589433414649">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
