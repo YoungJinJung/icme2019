@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/views/pages/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/index.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/paper.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/paper.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,14 +156,7 @@
       <workItem from="1593761499370" duration="2200000" />
       <workItem from="1593763935287" duration="5657000" />
       <workItem from="1595478033988" duration="599000" />
-      <workItem from="1597195752785" duration="6100000" />
-    </task>
-    <task id="LOCAL-00006" summary="- logo image &amp; BackGround image change - main page modify(description)&#10;- useless pages cleanup">
-      <created>1556273255626</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1556273255626</updated>
+      <workItem from="1597195752785" duration="6929000" />
     </task>
     <task id="LOCAL-00007" summary="organizing_committee modified &#10;&#10;- change photo sizes 140 * 140 or Square Size">
       <created>1556285774018</created>
@@ -499,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597201702019</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="summer school index">
+      <created>1597201941434</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1597201941434</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,7 +538,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value=" keynotes 2 people" />
     <MESSAGE value="Special session template attached .xml file" />
     <MESSAGE value="&quot;Jiaying&quot; not &quot;Jia-Ying" />
     <MESSAGE value="paper location" />
@@ -561,23 +562,20 @@
     <MESSAGE value="virtual conference" />
     <MESSAGE value="virtual flyer -&gt; paper" />
     <MESSAGE value="summer school" />
-    <option name="LAST_COMMIT_MESSAGE" value="summer school" />
+    <MESSAGE value="summer school index" />
+    <option name="LAST_COMMIT_MESSAGE" value="summer school index" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="656" y="481" width="1097" height="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586963196338">
-      <screen x="57" y="24" width="1863" height="1056" />
-    </state>
-    <state x="656" y="481" width="1097" height="389" key="#com.intellij.fileTypes.FileTypeChooser/57.24.1863.1056@57.24.1863.1056" timestamp="1586963196338" />
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1594618842481">
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1597201939361">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
     <state x="507" y="26" width="914" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1593396049939" />
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1594618842481" />
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1594618859374">
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1597201939361" />
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1597201947423">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
     <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1593396076729" />
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1594618859374" />
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1597201947423" />
     <state x="57" y="316" width="692" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589433414649">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
@@ -591,10 +589,6 @@
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
     <state x="616" y="455" width="686" height="422" key="git4idea.merge.GitPullDialog/57.24.3383.1416@57.24.3383.1416" timestamp="1593762217650" />
-    <state x="872" y="395" width="672" height="678" key="search.everywhere.popup" timestamp="1585184519221">
-      <screen x="57" y="24" width="1863" height="1056" />
-    </state>
-    <state x="872" y="395" width="672" height="678" key="search.everywhere.popup/57.24.1863.1056@57.24.1863.1056" timestamp="1585184519221" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
