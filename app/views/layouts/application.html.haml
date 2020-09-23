@@ -17,18 +17,22 @@
             %span{class: 'icon-bar'}
             %span{class: 'icon-bar'}
             %span{class: 'icon-bar'}
+
           %a{class: 'navbar-brand', href: '/'}
             %font{color: 'white'}
               %b APSIPA ASC 2020
         %div{class: 'collapse navbar-collapse pull-right', id: 'sitenav'}
           %ul{class: 'nav navbar-nav'}
             = render partial: 'general', locals: {title: 'General'}
+            = render partial: 'sponsors', locals: {title: 'Conference Sponsors'}
+
             = render partial: 'calls', locals: {title: 'Calls'}
             = render partial: 'attendees', locals: {title: 'Attendees'}
             = render partial: 'program', locals: {title: 'Program'}
-            -#= render partial: 'conference', locals: {title: 'Conference'}
+
+            -# = render partial: 'conference', locals: {title: 'Conference'}
           -#= render partial: 'industry', locals: {title: 'Industry'}
-          -#= render partial: 'authors', locals: {title: 'Authors'}
+          -# = render partial: 'authors', locals: {title: 'Authors'}
           -#= render partial: 'students', locals: {title: 'Students'}
 
     %div{class: 'container-fluid', id: 'main-content'}

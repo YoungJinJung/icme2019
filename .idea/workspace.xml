@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/APSIPA 2020 -Tutorials.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/APSIPA-2020 Overview Sessions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Nominated IDL Yuichi Nakamura.pdf" afterDir="false" />
+    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="summer school index">
+      <change afterPath="$PROJECT_DIR$/app/views/pages/_sponsors.html.haml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.~lock.Sponsorship Opportunities.docx#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Sponsorship Opportunities.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Sponsorship Prospectus_Virtual Conference_APSIPA.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/_program.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/_program.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/_general.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/_general.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/sponsors.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/sponsors.html.haml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,6 +164,7 @@
       <workItem from="1595478033988" duration="599000" />
       <workItem from="1597195752785" duration="6929000" />
       <workItem from="1600246538997" duration="1826000" />
+      <workItem from="1600839669927" duration="7189000" />
     </task>
     <task id="LOCAL-00007" summary="organizing_committee modified &#10;&#10;- change photo sizes 140 * 140 or Square Size">
       <created>1556285774018</created>
@@ -570,24 +574,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="summer school index" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1597201939361">
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1600864038530">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
     <state x="507" y="26" width="914" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1593396049939" />
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1597201939361" />
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1600864038530" />
     <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1597201947423">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
     <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1593396076729" />
     <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1597201947423" />
-    <state x="57" y="316" width="692" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589433414649">
-      <screen x="57" y="24" width="1863" height="1056" />
+    <state x="1921" y="462" width="772" height="772" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600862500642">
+      <screen x="57" y="24" width="3383" height="1416" />
     </state>
-    <state x="57" y="316" width="692" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/57.24.1863.1056@57.24.1863.1056" timestamp="1589433414649" />
+    <state x="1921" y="462" width="772" height="772" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/57.24.3383.1416@57.24.3383.1416" timestamp="1600862500642" />
     <state x="1290" y="424" width="1326" height="695" key="find.popup" timestamp="1593765459509">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
-    <state x="736" y="322" width="730" height="518" key="find.popup/57.24.1863.1056@57.24.1863.1056" timestamp="1589431694418" />
     <state x="1290" y="424" width="1326" height="695" key="find.popup/57.24.3383.1416@57.24.3383.1416" timestamp="1593765459509" />
     <state x="616" y="455" width="686" height="422" key="git4idea.merge.GitPullDialog" timestamp="1593762217650">
       <screen x="57" y="24" width="3383" height="1416" />
