@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="summer school index">
-      <change afterPath="$PROJECT_DIR$/app/views/pages/_sponsors.html.haml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.~lock.Sponsorship Opportunities.docx#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Sponsorship Opportunities.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Sponsorship Prospectus_Virtual Conference_APSIPA.pdf" afterDir="false" />
+    <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/_general.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/_general.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/sponsors.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/sponsors.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/registration.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/registration.html.haml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,14 +158,8 @@
       <workItem from="1595478033988" duration="599000" />
       <workItem from="1597195752785" duration="6929000" />
       <workItem from="1600246538997" duration="1826000" />
-      <workItem from="1600839669927" duration="7189000" />
-    </task>
-    <task id="LOCAL-00007" summary="organizing_committee modified &#10;&#10;- change photo sizes 140 * 140 or Square Size">
-      <created>1556285774018</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1556285774018</updated>
+      <workItem from="1600839669927" duration="7498000" />
+      <workItem from="1601599678487" duration="315000" />
     </task>
     <task id="LOCAL-00008" summary="resizing photos">
       <created>1556287554047</created>
@@ -509,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597201941434</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="conference sponsors">
+      <created>1600865299069</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1600865299070</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,7 +541,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Special session template attached .xml file" />
     <MESSAGE value="&quot;Jiaying&quot; not &quot;Jia-Ying" />
     <MESSAGE value="paper location" />
     <MESSAGE value="Glod Level” à “Gold Level”" />
@@ -571,19 +565,20 @@
     <MESSAGE value="virtual flyer -&gt; paper" />
     <MESSAGE value="summer school" />
     <MESSAGE value="summer school index" />
-    <option name="LAST_COMMIT_MESSAGE" value="summer school index" />
+    <MESSAGE value="conference sponsors" />
+    <option name="LAST_COMMIT_MESSAGE" value="conference sponsors" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1600864038530">
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1600865297267">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
     <state x="507" y="26" width="914" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1593396049939" />
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1600864038530" />
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1597201947423">
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1600865297267" />
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1600865312464">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
     <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1593396076729" />
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1597201947423" />
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1600865312464" />
     <state x="1921" y="462" width="772" height="772" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600862500642">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
@@ -596,6 +591,10 @@
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
     <state x="616" y="455" width="686" height="422" key="git4idea.merge.GitPullDialog/57.24.3383.1416@57.24.3383.1416" timestamp="1593762217650" />
+    <state x="1974" y="379" width="672" height="678" key="search.everywhere.popup" timestamp="1601599978598">
+      <screen x="57" y="24" width="3383" height="1416" />
+    </state>
+    <state x="1974" y="379" width="672" height="678" key="search.everywhere.popup/57.24.3383.1416@57.24.3383.1416" timestamp="1601599978598" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
