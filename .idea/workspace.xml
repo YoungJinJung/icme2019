@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="Note: All payments are in US$ Dollars">
+      <change afterPath="$PROJECT_DIR$/public/APSIPA 2020 Industrial Forum Presenters.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/index.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/registration.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/registration.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/_program.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/_program.html.haml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="/media/ubuntu/8eadeaca-8bf9-4abc-8e06-1aa6482e1c56/JK_hompage/minimal-mistakes" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -161,6 +160,8 @@
       <workItem from="1600246538997" duration="1826000" />
       <workItem from="1600839669927" duration="7498000" />
       <workItem from="1601599678487" duration="2366000" />
+      <workItem from="1602393528954" duration="6860000" />
+      <workItem from="1604031473112" duration="521000" />
     </task>
     <task id="LOCAL-00009" summary="sponsor program edited&#10;call for * add orginzers">
       <created>1556290670193</created>
@@ -570,15 +571,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="Note: All payments are in US$ Dollars" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="57" y="648" width="457" height="431" key="#Web_Browsers" timestamp="1602422327912">
+      <screen x="57" y="24" width="1863" height="1056" />
+    </state>
+    <state x="57" y="648" width="457" height="431" key="#Web_Browsers/57.24.1863.1056@57.24.1863.1056" timestamp="1602422327912" />
     <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1601600035776">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
-    <state x="507" y="26" width="914" height="806" key="CommitChangelistDialog2/57.24.1863.1056@57.24.1863.1056" timestamp="1593396049939" />
     <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1601600035776" />
+    <state x="771" y="339" width="426" height="483" key="FileChooserDialogImpl" timestamp="1602393543109">
+      <screen x="57" y="24" width="1863" height="1056" />
+    </state>
+    <state x="771" y="339" width="426" height="483" key="FileChooserDialogImpl/57.24.1863.1056@57.24.1863.1056" timestamp="1602393543109" />
     <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1601600047390">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
-    <state x="411" y="200" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.1863.1056@57.24.1863.1056" timestamp="1593396076729" />
     <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1601600047390" />
     <state x="1921" y="462" width="772" height="772" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600862500642">
       <screen x="57" y="24" width="3383" height="1416" />
