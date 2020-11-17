@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/overview/1-HITOSHI KIYA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/overview/10-Qin Jin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/overview/11-Woon-Seng Gan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/overview/2-Nam Ik Cho.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/overview/3-Chris Gwo Giun Lee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/overview/4-Xudong Jiang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/overview/5-Yuchao Dai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/overview/6-Christian Ritz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/overview/7-Chi-Chun Lee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/overview/8-Hiroshi Saruwatari.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/photos/overview/9-Hemant A. Patil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/pages/overview_sess.html.haml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/overview/10-Qin Jin-ef839244d3521e628de0c1d6ccd2a7697992e2e4600bb0d2486478eebef37404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/overview/11-Woon-Seng Gan-578c22efd3af3b6398a4800d04dc88fb8645041480729eecf83205e4927d19ee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/overview/2-Nam Ik Cho-c1c90f658d45ada28dffc12d73d04a0c9b53fece3105f9cb2b6758d588b36245.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/overview/3-Chris Gwo Giun Lee-ad0ceeaa3b19ce9eebe430fd17262ead326ffe28f6481da721a2ff359fb9adc7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/overview/4-Xudong Jiang-f06420019c9b1bb2aa6a896b284b79b38ba6d01a7535a1b90da7200e595b61f5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/overview/5-Yuchao Dai-fd724fbccad04041ac3ff5bd52bb0b5dd96bcf0c3bdc7ff98c0f6e292dfc0977.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/overview/6-Christian Ritz-9b7c7ca0e1f35c9b56f3c59040adea034f699757c83a02c82e24b5cdad0cfaab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/overview/7-Chi-Chun Lee-00b62338767e44c5e3843222e7981675a203096eefb5ef40a308c38ae8d67232.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/overview/8-Hiroshi Saruwatari-8840da9f6d7b4c7e3e8a0c9a312facf994a1a501a525d42622feb4826d4f6492.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/photos/overview/9-Hemant A. Patil-3e6218d5fd1d63fc2276a3f5b90025f97c6e731d97e402a523900d472775f0be.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/_program.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/_program.html.haml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/pages/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/index.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/program_info.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/program_info.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/.sprockets-manifest-525f52c18b1775971c206cf636d5fdfe.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/.sprockets-manifest-525f52c18b1775971c206cf636d5fdfe.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,14 +162,7 @@
       <workItem from="1601599678487" duration="2366000" />
       <workItem from="1602393528954" duration="6860000" />
       <workItem from="1604031473112" duration="1247000" />
-      <workItem from="1605081908783" duration="10644000" />
-    </task>
-    <task id="LOCAL-00013" summary="fix : date Nov 18 -&gt; Dec 7&#10;add program info page">
-      <created>1561805156247</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1561805156247</updated>
+      <workItem from="1605081908783" duration="11858000" />
     </task>
     <task id="LOCAL-00014" summary="Travel Information Page update">
       <created>1562053820805</created>
@@ -533,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605495963474</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="overview sess">
+      <created>1605602317788</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1605602317788</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +544,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Glod Level” à “Gold Level”" />
     <MESSAGE value="important date extended april 15" />
     <MESSAGE value="index area list and" />
     <MESSAGE value="index area list and download call for paper" />
@@ -595,25 +568,26 @@
     <MESSAGE value="conference sponsors" />
     <MESSAGE value="Note: All payments are in US$ Dollars" />
     <MESSAGE value="industrial forum" />
-    <option name="LAST_COMMIT_MESSAGE" value="industrial forum" />
+    <MESSAGE value="overview sess" />
+    <option name="LAST_COMMIT_MESSAGE" value="overview sess" />
   </component>
   <component name="WindowStateProjectService">
     <state x="57" y="648" width="457" height="431" key="#Web_Browsers" timestamp="1602422327912">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="57" y="648" width="457" height="431" key="#Web_Browsers/57.24.1863.1056@57.24.1863.1056" timestamp="1602422327912" />
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1605495960621">
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1605602315873">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1605495960621" />
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1605602315873" />
     <state x="771" y="339" width="426" height="483" key="FileChooserDialogImpl" timestamp="1602393543109">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="771" y="339" width="426" height="483" key="FileChooserDialogImpl/57.24.1863.1056@57.24.1863.1056" timestamp="1602393543109" />
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1605496010581">
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1605602352498">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1605496010581" />
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1605602352498" />
     <state x="1921" y="462" width="772" height="772" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600862500642">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
