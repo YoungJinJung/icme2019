@@ -57,6 +57,7 @@ Rails.application.routes.draw do
   get      '/download_brochure', to: 'pages#download_brochure'
   get      '/visa_info', to: 'pages#visa_info'
   get      '/summer_school', to: 'pages#summer_school'
+  get      '/overview_sess', to: 'pages#overview_sess'
 
   # get      '/forum_talk', to : <a href= "APSIPA 20 Tutorial details.pdf", style= "font-weight: bold"> 'APSIPA ASC 2020 Tutorials List and Abstracts'</a>
 
