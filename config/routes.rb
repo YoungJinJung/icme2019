@@ -60,6 +60,7 @@ Rails.application.routes.draw do
   get      '/overview_sess', to: 'pages#overview_sess'
   get      '/overview_sess', to: 'pages#overview_sess'
   get      '/conference_pro', to: 'pages#conference_program'
+  get      '/cprogram', to: 'pages#APSIPA Conference Program - 25-11'
 
   # get      '/forum_talk', to : <a href= "APSIPA 20 Tutorial details.pdf", style= "font-weight: bold"> 'APSIPA ASC 2020 Tutorials List and Abstracts'</a>
 
