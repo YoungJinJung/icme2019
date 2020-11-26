@@ -9,14 +9,16 @@
   %tr{class:'active'}
     %th
       %h3
-        %b <a href= "APSIPA Conference Program - 25-11.htm", style= "color: green"> Full Conference Program Schedule (online) </a>
-        -#%a{href: '/cprogram', class: 'list-group-item list-group-item-warning'}
-        -#%span{class: 'glyphicon glyphicon-star'}
-        -#Keynote Speakers
+        -#%b <a onclick=window.open('Conference.htm'), style= "color: green">  Full Conference Program Schedule (online) </a>
+        -#%b <a href= window.open('Conference.htm'), style= "color: green">  Full Conference Program Schedule (online) </a>
+        -#%a{href: 'Conference.htm'} Full Conference Program Schedule (online)
+        -#%b onclick="window.open('APSIPA Conference Program - 25-11.htm', 'name','width=600,height=400')
+
       %h3
-        %b <a href= "APSIPA Conference Program - 13-11-2020.xlsx", style= "color: green"> Full Conference Program Schedule (Download) </a>
+        %b <a href= "APSIPA Conference Program - 25-11.xlsx", style= "color: green"> Full Conference Program Schedule (Download) </a>
 
   %tr
     %th
       %h3
         %b <a href= "https://cmsworkshops.com/APSIPA2020/TechnicalProgram.asp", style= "color: green"> Papers Presentations Schedule </a>
+-#%img{src:"#{asset_path('logo/Hitachilogo_01_01.png')}", width:'250px', onclick=window.open('APSIPA Conference Program - 25-11.htm')}

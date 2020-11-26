@@ -1,14 +1,14 @@
 !!!
-%html(xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:x="urn:schemas-microsoft-com:office:excel")
+%html{:xmlns => "http://www.w3.org/TR/REC-html40", "xmlns:o" => "urn:schemas-microsoft-com:office:office", "xmlns:v" => "urn:schemas-microsoft-com:vml", "xmlns:x" => "urn:schemas-microsoft-com:office:excel"}
   %head
-    %meta(name="Excel Workbook Frameset")/
-    %meta(content="text/html; charset=UTF-8" http-equiv="Content-Type")/
-    %meta(content="Excel.Sheet" name="ProgId")/
-    %meta(content="Microsoft Excel 15" name="Generator")/
-    %link(href="APSIPA%20Conference%20Program%20-%2025-11_files/filelist.xml" rel="File-List")/
-    %link#shLink(href="APSIPA%20Conference%20Program%20-%2025-11_files/sheet001.htm")/
+    %meta{:name => "Excel Workbook Frameset"}/
+    %meta{:content => "text/html; charset=UTF-8", "http-equiv" => "Content-Type"}/
+    %meta{:content => "Excel.Sheet", :name => "ProgId"}/
+    %meta{:content => "Microsoft Excel 15", :name => "Generator"}/
+    %link{:href => "APSIPA%20Conference%20Program%20-%2025-11_files/filelist.xml", :rel => "File-List"}/
+    %link#shLink{:href => "APSIPA%20Conference%20Program%20-%2025-11_files/sheet001.htm"}/
     %link#shLink/
-    %script(language="JavaScript")
+    %script{:language => "JavaScript"}
       :cdata
         <!--
         var c_lTabs=1;
@@ -307,9 +307,9 @@
   <x:ProtectWindows>False</x:ProtectWindows>
   </x:ExcelWorkbook>
   </xml>
-  %frameset(border="0" frameborder="no" framespacing="0" rows="*,39" width="0")
-    %frame(name="frSheet" src="APSIPA%20Conference%20Program%20-%2025-11_files/sheet001.htm")/
-    %frame(marginheight="0" marginwidth="0" name="frTabs" src="APSIPA%20Conference%20Program%20-%2025-11_files/tabstrip.htm")/
+  %frameset{:border => "0", :frameborder => "no", :framespacing => "0", :rows => "*,39", :width => "0"}
+    %frame{:name => "frSheet", :src => "APSIPA%20Conference%20Program%20-%2025-11_files/sheet001.htm"}/
+    %frame{:marginheight => "0", :marginwidth => "0", :name => "frTabs", :src => "APSIPA%20Conference%20Program%20-%2025-11_files/tabstrip.htm"}/
     %noframes
       %body
         %p This page uses frames, but your browser doesn't support them.
