@@ -161,14 +161,7 @@
       <workItem from="1602393528954" duration="6860000" />
       <workItem from="1604031473112" duration="1247000" />
       <workItem from="1605081908783" duration="22737000" />
-      <workItem from="1606368915865" duration="8190000" />
-    </task>
-    <task id="LOCAL-00024" summary="pdf upload and modification 12/4">
-      <created>1575580027888</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1575580027888</updated>
+      <workItem from="1606368915865" duration="8238000" />
     </task>
     <task id="LOCAL-00025" summary="flyer change and replace Shinsuke Ibi by Osamu Takyu">
       <created>1578900350473</created>
@@ -506,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606437296267</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="how to join?">
+      <created>1606437349633</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1606437349633</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +543,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="special session strike through" />
     <MESSAGE value="forum talk" />
     <MESSAGE value="conf_keynotes" />
     <MESSAGE value="paper submission" />
@@ -568,25 +567,26 @@
     <MESSAGE value="change 1126" />
     <MESSAGE value="change 1126d" />
     <MESSAGE value="how to join" />
-    <option name="LAST_COMMIT_MESSAGE" value="how to join" />
+    <MESSAGE value="how to join?" />
+    <option name="LAST_COMMIT_MESSAGE" value="how to join?" />
   </component>
   <component name="WindowStateProjectService">
     <state x="57" y="648" width="457" height="431" key="#Web_Browsers" timestamp="1602422327912">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="57" y="648" width="457" height="431" key="#Web_Browsers/57.24.1863.1056@57.24.1863.1056" timestamp="1602422327912" />
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1606437293462">
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1606437349461">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1606437293462" />
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1606437349461" />
     <state x="771" y="339" width="426" height="483" key="FileChooserDialogImpl" timestamp="1602393543109">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="771" y="339" width="426" height="483" key="FileChooserDialogImpl/57.24.1863.1056@57.24.1863.1056" timestamp="1602393543109" />
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1606437300898">
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1606437358402">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1606437300898" />
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1606437358402" />
     <state x="1921" y="462" width="772" height="772" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600862500642">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
