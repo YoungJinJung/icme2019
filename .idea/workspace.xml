@@ -4,6 +4,8 @@
     <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/pages/conference_program.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/conference_program.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/index.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,14 +164,7 @@
       <workItem from="1602393528954" duration="6860000" />
       <workItem from="1604031473112" duration="1247000" />
       <workItem from="1605081908783" duration="22737000" />
-      <workItem from="1606368915865" duration="21688000" />
-    </task>
-    <task id="LOCAL-00030" summary="&quot;Jiaying&quot; not &quot;Jia-Ying">
-      <created>1582096911616</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1582096911616</updated>
+      <workItem from="1606368915865" duration="23037000" />
     </task>
     <task id="LOCAL-00031" summary="paper location">
       <created>1582354502903</created>
@@ -507,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606787265991</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="conference program online">
+      <created>1607158063547</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1607158063548</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,27 +569,27 @@
     <MESSAGE value="how to join?-fix" />
     <MESSAGE value="how to join?-fixsad" />
     <MESSAGE value="how to join?-fix ready" />
-    <MESSAGE value="conference program online" />
     <MESSAGE value="industrial" />
-    <option name="LAST_COMMIT_MESSAGE" value="industrial" />
+    <MESSAGE value="conference program online" />
+    <option name="LAST_COMMIT_MESSAGE" value="conference program online" />
   </component>
   <component name="WindowStateProjectService">
     <state x="57" y="648" width="457" height="431" key="#Web_Browsers" timestamp="1602422327912">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="57" y="648" width="457" height="431" key="#Web_Browsers/57.24.1863.1056@57.24.1863.1056" timestamp="1602422327912" />
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1606787265812">
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1607158060810">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1606787265812" />
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1607158060810" />
     <state x="771" y="339" width="426" height="483" key="FileChooserDialogImpl" timestamp="1602393543109">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="771" y="339" width="426" height="483" key="FileChooserDialogImpl/57.24.1863.1056@57.24.1863.1056" timestamp="1602393543109" />
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1606787275214">
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1607158070262">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1606787275214" />
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1607158070262" />
     <state x="1921" y="462" width="772" height="772" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600862500642">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
