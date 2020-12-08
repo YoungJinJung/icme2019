@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35b11607-aa6e-46f0-9e91-492c12b757c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/APSIPA Conference Program - 8-12.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/pages/conference_program.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/conference_program.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/index.html.haml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,14 +164,7 @@
       <workItem from="1602393528954" duration="6860000" />
       <workItem from="1604031473112" duration="1247000" />
       <workItem from="1605081908783" duration="22737000" />
-      <workItem from="1606368915865" duration="23037000" />
-    </task>
-    <task id="LOCAL-00031" summary="paper location">
-      <created>1582354502903</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1582354502903</updated>
+      <workItem from="1606368915865" duration="23886000" />
     </task>
     <task id="LOCAL-00032" summary="Glod Level” à “Gold Level”">
       <created>1582878750088</created>
@@ -509,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607158063548</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="proceedings">
+      <created>1607305497556</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1607305497556</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,7 +546,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="early bird date change(nov 1)" />
     <MESSAGE value="virtual conference" />
     <MESSAGE value="virtual flyer -&gt; paper" />
     <MESSAGE value="summer school" />
@@ -571,25 +570,26 @@
     <MESSAGE value="how to join?-fix ready" />
     <MESSAGE value="industrial" />
     <MESSAGE value="conference program online" />
-    <option name="LAST_COMMIT_MESSAGE" value="conference program online" />
+    <MESSAGE value="proceedings" />
+    <option name="LAST_COMMIT_MESSAGE" value="proceedings" />
   </component>
   <component name="WindowStateProjectService">
     <state x="57" y="648" width="457" height="431" key="#Web_Browsers" timestamp="1602422327912">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="57" y="648" width="457" height="431" key="#Web_Browsers/57.24.1863.1056@57.24.1863.1056" timestamp="1602422327912" />
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1607158060810">
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2" timestamp="1607305494759">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
-    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1607158060810" />
+    <state x="874" y="27" width="1279" height="885" key="CommitChangelistDialog2/57.24.3383.1416@57.24.3383.1416" timestamp="1607305494759" />
     <state x="771" y="339" width="426" height="483" key="FileChooserDialogImpl" timestamp="1602393543109">
       <screen x="57" y="24" width="1863" height="1056" />
     </state>
     <state x="771" y="339" width="426" height="483" key="FileChooserDialogImpl/57.24.1863.1056@57.24.1863.1056" timestamp="1602393543109" />
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1607158070262">
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1607305502622">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
-    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1607158070262" />
+    <state x="700" y="260" width="802" height="527" key="Vcs.Push.Dialog.v2/57.24.3383.1416@57.24.3383.1416" timestamp="1607305502622" />
     <state x="1921" y="462" width="772" height="772" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600862500642">
       <screen x="57" y="24" width="3383" height="1416" />
     </state>
